@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "LMSTrainingView";
+}
+<table>
+    <tr>
+        <th>Id</th>
+        <th>EmployeeID</th>
+        <th>CourseId</th>
+        <th>CourseName</th>
+        <th>Category</th>
+        <th>Skill</th>
+        <th>Level</th>
+        <th>Duration</th>
+    </tr>
+    @foreach (var trainingdata in Model)
+    {
+        <tr>
+            <td>@trainingdata.Id</td>
+            <td>@trainingdata.EmployeeID</td>
+            <td>@trainingdata.CourseId</td>
+            <td>@trainingdata.CourseName</td>
+            <td>@trainingdata.Category</td>
+            <td>@trainingdata.Skill</td>
+            <td>@trainingdata.Level</td>
+            <td>@trainingdata.Duration</td>
+        </tr>
+    }
+</table>
+
+<h2>LMSTrainingView</h2>
+
