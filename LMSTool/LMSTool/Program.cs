@@ -88,7 +88,7 @@ namespace LMSTool
                                     courseid += dtitem.ToString();
                                     coursename += dtitem.ToString();
                                     leve += dtitem.ToString();
-                                    string Insertquery = "INSERT INTO trainingAssigned (Nam, Column2, Column3) VALUES (@Value1, @Value2, @Value3)";
+                                    string Insertquery = "INSERT INTO trainingAssigned (Name, Role, Column3) VALUES (@Value1, @Value2, @Value3)";
 
                                     // Values to insert
                                     string value1 = "SampleData1";
