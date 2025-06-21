@@ -74,7 +74,7 @@ namespace LMSTool
                         {
                             // Open the connection
                             connection.Open();
-//for testing
+                            //test
                             // Create a SqlCommand
                             using (SqlCommand command = new SqlCommand(query, connection))
                             {
