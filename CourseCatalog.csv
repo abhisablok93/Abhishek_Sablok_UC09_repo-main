@@ -1,0 +1,1001 @@
+CourseId,CourseName,Category,Skill,Level,Duration
+C001,Advanced Leadership,Behavioral,Leadership,Advanced,3 hours
+C002,Effective Communication,Behavioral,Communication,Intermediate,2 hours
+C003,Data Science Bootcamp,Technical,Technical Skills,Beginner,5 hours
+C004,Project Management Principles,Management,Project Management,Beginner,4 hours
+C005,Introduction to Python Programming,Technical,Programming,Beginner,6 hours
+C006,Advanced Excel Formulas and Functions,Technical,Excel,Advanced,2 hours
+C007,Digital Marketing Strategies,Marketing,Digital Marketing,Intermediate,3 hours
+C008,Machine Learning A-Z,Technical,Machine Learning,Advanced,7 hours
+C009,The Complete SQL Bootcamp,Technical,SQL,Beginner,5 hours
+C010,Creative Problem Solving,Behavioral,Problem Solving,Intermediate,2 hours
+C011,Negotiation Skills,Behavioral,Negotiation,Advanced,3 hours
+C012,Time Management Mastery,Behavioral,Time Management,Intermediate,2 hours
+C013,Fundamentals of Graphic Design,Creative,Design,Beginner,4 hours
+C014,Web Development Bootcamp,Technical,Web Development,Beginner,8 hours
+C015,Data Analysis with Pandas,Technical,Data Analysis,Intermediate,5 hours
+C016,Introduction to Cybersecurity,Technical,Cybersecurity,Beginner,3 hours
+C017,Advanced CSS Techniques,Technical,CSS,Advanced,2 hours
+C018,User Experience (UX) Design Fundamentals,Creative,UX Design,Beginner,4 hours
+C019,Agile Project Management,Management,Agile,Intermediate,3 hours
+C020,Introduction to Cloud Computing,Technical,Cloud Computing,Beginner,5 hours
+C021,Social Media Marketing,Marketing,Social Media,Intermediate,3 hours
+C022,Search Engine Optimization (SEO) Basics,Marketing,SEO,Beginner,2 hours
+C023,Content Marketing Strategy,Marketing,Content Marketing,Intermediate,3 hours
+C024,Email Marketing Essentials,Marketing,Email Marketing,Beginner,2 hours
+C025,Google Ads Certification,Marketing,Google Ads,Advanced,4 hours
+C026,Facebook Blueprint Certification,Marketing,Facebook Ads,Advanced,4 hours
+C027,Instagram Marketing 101,Marketing,Instagram,Beginner,2 hours
+C028,LinkedIn Advertising,Marketing,LinkedIn,Intermediate,3 hours
+C029,YouTube Marketing,Marketing,YouTube,Beginner,2 hours
+C030,Advanced Data Visualization with Tableau,Technical,Tableau,Advanced,3 hours
+C031,Introduction to R Programming,Technical,R,Beginner,6 hours
+C032,Deep Learning Specialization,Technical,Deep Learning,Advanced,8 hours
+C033,Data Science for Business,Technical,Data Science,Intermediate,5 hours
+C034,Big Data Analytics,Technical,Big Data,Advanced,7 hours
+C035,Introduction to DevOps,Technical,DevOps,Beginner,4 hours
+C036,Continuous Integration and Continuous Deployment (CI/CD),Technical,CI/CD,Intermediate,3 hours
+C037,Software Testing and Debugging,Technical,Software Testing,Advanced,5 hours
+C038,Mobile App Development,Technical,Mobile Development,Beginner,6 hours
+C039,Game Development for Beginners,Technical,Game Development,Beginner,5 hours
+C040,Introduction to Blockchain,Technical,Blockchain,Beginner,3 hours
+C041,Ethical Hacking,Technical,Ethical Hacking,Advanced,7 hours
+C042,Penetration Testing,Technical,Penetration Testing,Advanced,6 hours
+C043,Network Security Fundamentals,Technical,Network Security,Intermediate,4 hours
+C044,Introduction to Internet of Things (IoT),Technical,IoT,Beginner,3 hours
+C045,Data Engineering on Google Cloud,Technical,Data Engineering,Advanced,8 hours
+C046,Data Warehousing for Beginners,Technical,Data Warehousing,Beginner,5 hours
+C047,Introduction to NoSQL Databases,Technical,NoSQL,Beginner,4 hours
+C048,Mastering MongoDB,Technical,MongoDB,Advanced,6 hours
+C049,Introduction to Artificial Intelligence,Technical,AI,Beginner,3 hours
+C050,AI for Everyone,Technical,AI,Intermediate,2 hours
+C051,Building AI Powered Chatbots Without Programming,Technical,AI,Beginner,4 hours
+C052,Advanced AI: Deep Reinforcement Learning in Python,Technical,AI,Advanced,7 hours
+C053,Introduction to Quantum Computing,Technical,Quantum Computing,Beginner,5 hours
+C054,Blockchain Basics,Technical,Blockchain,Beginner,3 hours
+C055,Smart Contracts and Decentralized Applications (DApps),Technical,Blockchain,Intermediate,4 hours
+C056,Mastering Bitcoin,Technical,Bitcoin,Advanced,6 hours
+C057,Introduction to Ethereum,Technical,Ethereum,Beginner,3 hours
+C058,Building Web Apps with Flask,Technical,Flask,Intermediate,5 hours
+C059,Data Science with Python and R,Technical,Data Science,Advanced,8 hours
+C060,Introduction to Data Science,Technical,Data Science,Beginner,4 hours
+C061,Data Science Methodology,Technical,Data Science,Intermediate,3 hours
+C062,Data Visualization with Python,Technical,Data Visualization,Advanced,5 hours
+C063,Introduction to Statistics,Technical,Statistics,Beginner,4 hours
+C064,Inferential Statistics,Technical,Statistics,Intermediate,3 hours
+C065,Regression Analysis,Technical,Statistics,Advanced,5 hours
+C066,Introduction to Econometrics,Technical,Econometrics,Beginner,4 hours
+C067,Time Series Analysis,Technical,Statistics,Advanced,6 hours
+C068,Introduction to Machine Learning,Technical,Machine Learning,Beginner,5 hours
+C069,Machine Learning with Python,Technical,Machine Learning,Intermediate,6 hours
+C070,Deep Learning with TensorFlow,Technical,Deep Learning,Advanced,7 hours
+C071,Introduction to Natural Language Processing,Technical,NLP,Beginner,4 hours
+C072,Sentiment Analysis with Python,Technical,NLP,Intermediate,5 hours
+C073,Topic Modeling with Gensim,Technical,NLP,Advanced,6 hours
+C074,Introduction to Computer Vision,Technical,Computer Vision,Beginner,4 hours
+C075,Image Processing with Python,Technical,Computer Vision,Intermediate,5 hours
+C076,Facial Recognition with Python,Technical,Computer Vision,Advanced,6 hours
+C077,Introduction to Reinforcement Learning,Technical,Reinforcement Learning,Beginner,4 hours
+C078,Reinforcement Learning with Python,Technical,Reinforcement Learning,Intermediate,5 hours
+C079,Advanced Reinforcement Learning,Technical,Reinforcement Learning,Advanced,6 hours
+C080,Introduction to Ethical Hacking,Technical,Ethical Hacking,Beginner,4 hours
+C081,Web Application Security Testing,Technical,Security,Intermediate,5 hours
+C082,Network Defense and Countermeasures,Technical,Security,Advanced,6 hours
+C083,Introduction to Digital Forensics,Technical,Forensics,Beginner,4 hours
+C084,Incident Response and Handling,Technical,Forensics,Intermediate,5 hours
+C085,Advanced Digital Forensics,Technical,Forensics,Advanced,6 hours
+C086,Introduction to Cryptography,Technical,Cryptography,Beginner,4 hours
+C087,Applied Cryptography,Technical,Cryptography,Intermediate,5 hours
+C088,Advanced Cryptography,Technical,Cryptography,Advanced,6 hours
+C089,Introduction to Cloud Security,Technical,Cloud Security,Beginner,4 hours
+C090,Cloud Security Architecture,Technical,Cloud Security,Intermediate,5 hours
+C091,Advanced Cloud Security,Technical,Cloud Security,Advanced,6 hours
+C092,Introduction to DevSecOps,Technical,DevSecOps,Beginner,4 hours
+C093,DevSecOps Practices and Tools,Technical,DevSecOps,Intermediate,5 hours
+C094,Advanced DevSecOps,Technical,DevSecOps,Advanced,6 hours
+C095,Introduction to Site Reliability Engineering,Technical,SRE,Beginner,4 hours
+C096,Site Reliability Engineering Practices,Technical,SRE,Intermediate,5 hours
+C097,Advanced Site Reliability Engineering,Technical,SRE,Advanced,6 hours
+C098,Introduction to IT Service Management,Management,ITSM,Beginner,4 hours
+C099,ITIL Foundation Certification,Management,ITIL,Intermediate,5 hours
+C100,Advanced ITIL Practices,Management,ITIL,Advanced,6 hours
+C101,Introduction to Six Sigma,Management,Six Sigma,Beginner,4 hours
+C102,Lean Six Sigma Green Belt,Management,Six Sigma,Intermediate,5 hours
+C103,Lean Six Sigma Black Belt,Management,Six Sigma,Advanced,6 hours
+C104,Introduction to Business Analysis,Management,Business Analysis,Beginner,4 hours
+C105,Agile Business Analysis,Management,Business Analysis,Intermediate,5 hours
+C106,Advanced Business Analysis,Management,Business Analysis,Advanced,6 hours
+C107,Introduction to Change Management,Management,Change Management,Beginner,4 hours
+C108,Change Management Practitioner,Management,Change Management,Intermediate,5 hours
+C109,Advanced Change Management,Management,Change Management,Advanced,6 hours
+C110,Introduction to Knowledge Management,Management,Knowledge Management,Beginner,4 hours
+C111,Knowledge Management Practitioner,Management,Knowledge Management,Intermediate,5 hours
+C112,Advanced Knowledge Management,Management,Knowledge Management,Advanced,6 hours
+C113,Introduction to Strategic Planning,Management,Strategic Planning,Beginner,4 hours
+C114,Strategic Planning Practitioner,Management,Strategic Planning,Intermediate,5 hours
+C115,Advanced Strategic Planning,Management,Strategic Planning,Advanced,6 hours
+C116,Introduction to Operations Management,Management,Operations Management,Beginner,4 hours
+C117,Operations Management Practitioner,Management,Operations Management,Intermediate,5 hours
+C118,Advanced Operations Management,Management,Operations Management,Advanced,6 hours
+C119,Introduction to Supply Chain Management,Management,Supply Chain Management,Beginner,4 hours
+C120,Supply Chain Management Practitioner,Management,Supply Chain Management,Intermediate,5 hours
+C121,Advanced Supply Chain Management,Management,Supply Chain Management,Advanced,6 hours
+C122,Introduction to Project Management,Management,Project Management,Beginner,4 hours
+C123,Project Management Professional (PMP)® Certification,Management,Project Management,Advanced,6 hours
+C124,Introduction to Program Management,Management,Program Management,Beginner,4 hours
+C125,Program Management Professional (PgMP)® Certification,Management,Program Management,Advanced,6 hours
+C126,Introduction to Portfolio Management,Management,Portfolio Management,Beginner,4 hours
+C127,Portfolio Management Professional (PfMP)® Certification,Management,Portfolio Management,Advanced,6 hours
+C128,Introduction to Risk Management,Management,Risk Management,Beginner,4 hours
+C129,Enterprise Risk Management,Management,Risk Management,Intermediate,5 hours
+C130,Advanced Risk Management,Management,Risk Management,Advanced,6 hours
+C131,Introduction to Quality Management,Management,Quality Management,Beginner,4 hours
+C132,Total Quality Management (TQM),Management,Quality Management,Intermediate,5 hours
+C133,Advanced Quality Management,Management,Quality Management,Advanced,6 hours
+C134,Introduction to Performance Management,Management,Performance Management,Beginner,4 hours
+C135,Performance Management Practitioner,Management,Performance Management,Intermediate,5 hours
+C136,Advanced Performance Management,Management,Performance Management,Advanced,6 hours
+C137,Introduction to Employee Engagement,Management,Employee Engagement,Beginner,4 hours
+C138,Employee Engagement Practitioner,Management,Employee Engagement,Intermediate,5 hours
+C139,Advanced Employee Engagement,Management,Employee Engagement,Advanced,6 hours
+C140,Introduction to Leadership Development,Management,Leadership Development,Beginner,4 hours
+C141,Leadership Development Practitioner,Management,Leadership Development,Intermediate,5 hours
+C142,Advanced Leadership Development,Management,Leadership Development,Advanced,6 hours
+C143,Introduction to Coaching and Mentoring,Management,Coaching,Beginner,4 hours
+C144,Coaching and Mentoring Practitioner,Management,Coaching,Intermediate,5 hours
+C145,Advanced Coaching and Mentoring,Management,Coaching,Advanced,6 hours
+C146,Introduction to Team Building,Management,Team Building,Beginner,4 hours
+C147,Team Building Practitioner,Management,Team Building,Intermediate,5 hours
+C148,Advanced Team Building,Management,Team Building,Advanced,6 hours
+C149,Introduction to Conflict Resolution,Management,Conflict Resolution,Beginner,4 hours
+C150,Conflict Resolution Practitioner,Management,Conflict Resolution,Intermediate,5 hours
+C151,Advanced Conflict Resolution,Management,Conflict Resolution,Advanced,6 hours
+C152,Introduction to Negotiation,Management,Negotiation,Beginner,4 hours
+C153,Negotiation Practitioner,Management,Negotiation,Intermediate,5 hours
+C154,Advanced Negotiation,Management,Negotiation,Advanced,6 hours
+C155,Introduction to Sales Management,Management,Sales Management,Beginner,4 hours
+C156,Sales Management Practitioner,Management,Sales Management,Intermediate,5 hours
+C157,Advanced Sales Management,Management,Sales Management,Advanced,6 hours
+C158,Introduction to Marketing Management,Management,Marketing Management,Beginner,4 hours
+C159,Marketing Management Practitioner,Management,Marketing Management,Intermediate,5 hours
+C160,Advanced Marketing Management,Management,Marketing Management,Advanced,6 hours
+C161,Introduction to Financial Management,Management,Financial Management,Beginner,4 hours
+C162,Financial Management Practitioner,Management,Financial Management,Intermediate,5 hours
+C163,Advanced Financial Management,Management,Financial Management,Advanced,6 hours
+C164,Introduction to Strategic Management,Management,Strategic Management,Beginner,4 hours
+C165,Strategic Management Practitioner,Management,Strategic Management,Intermediate,5 hours
+C166,Advanced Strategic Management,Management,Strategic Management,Advanced,6 hours
+C167,Introduction to Operations Research,Management,Operations Research,Beginner,4 hours
+C168,Operations Research Practitioner,Management,Operations Research,Intermediate,5 hours
+C169,Advanced Operations Research,Management,Operations Research,Advanced,6 hours
+C170,Introduction to Management Information Systems,Management,MIS,Beginner,4 hours
+C171,Management Information Systems Practitioner,Management,MIS,Intermediate,5 hours
+C172,Advanced Management Information Systems,Management,MIS,Advanced,6 hours
+C173,Introduction to Business Intelligence,Management,BI,Beginner,4 hours
+C174,Business Intelligence Practitioner,Management,BI,Intermediate,5 hours
+C175,Advanced Business Intelligence,Management,BI,Advanced,6 hours
+C176,Introduction to Data Mining,Technical,Data Mining,Beginner,4 hours
+C177,Data Mining Practitioner,Technical,Data Mining,Intermediate,5 hours
+C178,Advanced Data Mining,Technical,Data Mining,Advanced,6 hours
+C179,Introduction to Predictive Analytics,Technical,Analytics,Beginner,4 hours
+C180,Predictive Analytics Practitioner,Technical,Analytics,Intermediate,5 hours
+C181,Advanced Predictive Analytics,Technical,Analytics,Advanced,6 hours
+C182,Introduction to Prescriptive Analytics,Technical,Analytics,Beginner,4 hours
+C183,Prescriptive Analytics Practitioner,Technical,Analytics,Intermediate,5 hours
+C184,Advanced Prescriptive Analytics,Technical,Analytics,Advanced,6 hours
+C185,Introduction to Data Governance,Management,Data Governance,Beginner,4 hours
+C186,Data Governance Practitioner,Management,Data Governance,Intermediate,5 hours
+C187,Advanced Data Governance,Management,Data Governance,Advanced,6 hours
+C188,Introduction to Data Quality,Management,Data Quality,Beginner,4 hours
+C189,Data Quality Practitioner,Management,Data Quality,Intermediate,5 hours
+C190,Advanced Data Quality,Management,Data Quality,Advanced,6 hours
+C191,Introduction to Data Architecture,Technical,Data Architecture,Beginner,4 hours
+C192,Data Architecture Practitioner,Technical,Data Architecture,Intermediate,5 hours
+C193,Advanced Data Architecture,Technical,Data Architecture,Advanced,6 hours
+C194,Introduction to Data Modeling,Technical,Data Modeling,Beginner,4 hours
+C195,Data Modeling Practitioner,Technical,Data Modeling,Intermediate,5 hours
+C196,Advanced Data Modeling,Technical,Data Modeling,Advanced,6 hours
+C197,Introduction to Data Warehousing,Technical,Data Warehousing,Beginner,4 hours
+C198,Data Warehousing Practitioner,Technical,Data Warehousing,Intermediate,5 hours
+C199,Advanced Data Warehousing,Technical,Data Warehousing,Advanced,6 hours
+C200,Introduction to ETL Processes,Technical,ETL,Beginner,4 hours
+C201,ETL Processes Practitioner,Technical,ETL,Intermediate,5 hours
+C202,Advanced ETL Processes,Technical,ETL,Advanced,6 hours
+C203,Introduction to Data Lakes,Technical,Data Lakes,Beginner,4 hours
+C204,Data Lakes Practitioner,Technical,Data Lakes,Intermediate,5 hours
+C205,Advanced Data Lakes,Technical,Data Lakes,Advanced,6 hours
+C206,Introduction to Data Mesh,Technical,Data Mesh,Beginner,4 hours
+C207,Data Mesh Practitioner,Technical,Data Mesh,Intermediate,5 hours
+C208,Advanced Data Mesh,Technical,Data Mesh,Advanced,6 hours
+C209,Introduction to Data Fabric,Technical,Data Fabric,Beginner,4 hours
+C210,Data Fabric Practitioner,Technical,Data Fabric,Intermediate,5 hours
+C211,Advanced Data Fabric,Technical,Data Fabric,Advanced,6 hours
+C212,Introduction to DataOps,Technical,DataOps,Beginner,4 hours
+C213,DataOps Practitioner,Technical,DataOps,Intermediate,5 hours
+C214,Advanced DataOps,Technical,DataOps,Advanced,6 hours
+C215,Introduction to MLOps,Technical,MLOps,Beginner,4 hours
+C216,MLOps Practitioner,Technical,MLOps,Intermediate,5 hours
+C217,Advanced MLOps,Technical,MLOps,Advanced,6 hours
+C218,Introduction to AIOps,Technical,AIOps,Beginner,4 hours
+C219,AIOps Practitioner,Technical,AIOps,Intermediate,5 hours
+C220,Advanced AIOps,Technical,AIOps,Advanced,6 hours
+C221,Introduction to ChatGPT for Business,Technical,ChatGPT,Beginner,4 hours
+C222,ChatGPT for Business Practitioner,Technical,ChatGPT,Intermediate,5 hours
+C223,Advanced ChatGPT for Business,Technical,ChatGPT,Advanced,6 hours
+C224,Introduction to Prompt Engineering,Technical,Prompt Engineering,Beginner,4 hours
+C225,Prompt Engineering Practitioner,Technical,Prompt Engineering,Intermediate,5 hours
+C226,Advanced Prompt Engineering,Technical,Prompt Engineering,Advanced,6 hours
+C227,Introduction to Ethical AI,Technical,AI Ethics,Beginner,4 hours
+C228,AI Ethics Practitioner,Technical,AI Ethics,Intermediate,5 hours
+C229,Advanced AI Ethics,Technical,AI Ethics,Advanced,6 hours
+C230,Introduction to AI Governance,Technical,AI Governance,Beginner,4 hours
+C231,AI Governance Practitioner,Technical,AI Governance,Intermediate,5 hours
+C232,Advanced AI Governance,Technical,AI Governance,Advanced,6 hours
+C233,Introduction to AI Strategy,Technical,AI Strategy,Beginner,4 hours
+C234,AI Strategy Practitioner,Technical,AI Strategy,Intermediate,5 hours
+C235,Advanced AI Strategy,Technical,AI Strategy,Advanced,6 hours
+C236,Introduction to AI Risk Management,Technical,AI Risk Management,Beginner,4 hours
+C237,AI Risk Management Practitioner,Technical,AI Risk Management,Intermediate,5 hours
+C238,Advanced AI Risk Management,Technical,AI Risk Management,Advanced,6 hours
+C239,Introduction to AI and Society,Technical,AI and Society,Beginner,4 hours
+C240,AI and Society Practitioner,Technical,AI and Society,Intermediate,5 hours
+C241,Advanced AI and Society,Technical,AI and Society,Advanced,6 hours
+C242,Introduction to AI for Healthcare,Technical,AI in Healthcare,Beginner,4 hours
+C243,AI for Healthcare Practitioner,Technical,AI in Healthcare,Intermediate,5 hours
+C244,Advanced AI for Healthcare,Technical,AI in Healthcare,Advanced,6 hours
+C245,Introduction to AI for Finance,Technical,AI in Finance,Beginner,4 hours
+C246,AI for Finance Practitioner,Technical,AI in Finance,Intermediate,5 hours
+C247,Advanced AI for Finance,Technical,AI in Finance,Advanced,6 hours
+C248,Introduction to AI for Marketing,Technical,AI in Marketing,Beginner,4 hours
+C249,AI for Marketing Practitioner,Technical,AI in Marketing,Intermediate,5 hours
+C250,Advanced AI for Marketing,Technical,AI in Marketing,Advanced,6 hours
+C251,Introduction to AI for Sales,Technical,AI in Sales,Beginner,4 hours
+C252,AI for Sales Practitioner,Technical,AI in Sales,Intermediate,5 hours
+C253,Advanced AI for Sales,Technical,AI in Sales,Advanced,6 hours
+C254,Introduction to AI for Customer Service,Technical,AI in Customer Service,Beginner,4 hours
+C255,AI for Customer Service Practitioner,Technical,AI in Customer Service,Intermediate,5 hours
+C256,Advanced AI for Customer Service,Technical,AI in Customer Service,Advanced,6 hours
+C257,Introduction to AI for Supply Chain,Technical,AI in Supply Chain,Beginner,4 hours
+C258,AI for Supply Chain Practitioner,Technical,AI in Supply Chain,Intermediate,5 hours
+C259,Advanced AI for Supply Chain,Technical,AI in Supply Chain,Advanced,6 hours
+C260,Introduction to AI for Manufacturing,Technical,AI in Manufacturing,Beginner,4 hours
+C261,AI for Manufacturing Practitioner,Technical,AI in Manufacturing,Intermediate,5 hours
+C262,Advanced AI for Manufacturing,Technical,AI in Manufacturing,Advanced,6 hours
+C263,Introduction to AI for Logistics,Technical,AI in Logistics,Beginner,4 hours
+C264,AI for Logistics Practitioner,Technical,AI in Logistics,Intermediate,5 hours
+C265,Advanced AI for Logistics,Technical,AI in Logistics,Advanced,6 hours
+C266,Introduction to AI for Retail,Technical,AI in Retail,Beginner,4 hours
+C267,AI for Retail Practitioner,Technical,AI in Retail,Intermediate,5 hours
+C268,Advanced AI for Retail,Technical,AI in Retail,Advanced,6 hours
+C269,Introduction to AI for E-commerce,Technical,AI in E-commerce,Beginner,4 hours
+C270,AI for E-commerce Practitioner,Technical,AI in E-commerce,Intermediate,5 hours
+C271,Advanced AI for E-commerce,Technical,AI in E-commerce,Advanced,6 hours
+C272,Introduction to AI for Education,Technical,AI in Education,Beginner,4 hours
+C273,AI for Education Practitioner,Technical,AI in Education,Intermediate,5 hours
+C274,Advanced AI for Education,Technical,AI in Education,Advanced,6 hours
+C275,Introduction to AI for Government,Technical,AI in Government,Beginner,4 hours
+C276,AI for Government Practitioner,Technical,AI in Government,Intermediate,5 hours
+C277,Advanced AI for Government,Technical,AI in Government,Advanced,6 hours
+C278,Introduction to AI for Nonprofits,Technical,AI in Nonprofits,Beginner,4 hours
+C279,AI for Nonprofits Practitioner,Technical,AI in Nonprofits,Intermediate,5 hours
+C280,Advanced AI for Nonprofits,Technical,AI in Nonprofits,Advanced,6 hours
+C281,Introduction to AI for Startups,Technical,AI in Startups,Beginner,4 hours
+C282,AI for Startups Practitioner,Technical,AI in Startups,Intermediate,5 hours
+C283,Advanced AI for Startups,Technical,AI in Startups,Advanced,6 hours
+C284,Introduction to AI for Small Business,Technical,AI in Small Business,Beginner,4 hours
+C285,AI for Small Business Practitioner,Technical,AI in Small Business,Intermediate,5 hours
+C286,Advanced AI for Small Business,Technical,AI in Small Business,Advanced,6 hours
+C287,Introduction to AI for Entrepreneurs,Technical,AI in Entrepreneurs,Beginner,4 hours
+C288,AI for Entrepreneurs Practitioner,Technical,AI in Entrepreneurs,Intermediate,5 hours
+C289,Advanced AI for Entrepreneurs,Technical,AI in Entrepreneurs,Advanced,6 hours
+C290,Introduction to AI for Executives,Technical,AI in Executives,Beginner,4 hours
+C291,AI for Executives Practitioner,Technical,AI in Executives,Intermediate,5 hours
+C292,Advanced AI for Executives,Technical,AI in Executives,Advanced,6 hours
+C293,Introduction to AI for Managers,Technical,AI in Managers,Beginner,4 hours
+C294,AI for Managers Practitioner,Technical,AI in Managers,Intermediate,5 hours
+C295,Advanced AI for Managers,Technical,AI in Managers,Advanced,6 hours
+C296,Introduction to AI for Leaders,Technical,AI in Leaders,Beginner,4 hours
+C297,AI for Leaders Practitioner,Technical,AI in Leaders,Intermediate,5 hours
+C298,Advanced AI for Leaders,Technical,AI in Leaders,Advanced,6 hours
+C299,Introduction to AI for Teams,Technical,AI in Teams,Beginner,4 hours
+C300,AI for Teams Practitioner,Technical,AI in Teams,Intermediate,5 hours
+C301,Advanced AI for Teams,Technical,AI in Teams,Advanced,6 hours
+C302,Introduction to AI for Organizations,Technical,AI in Organizations,Beginner,4 hours
+C303,AI for Organizations Practitioner,Technical,AI in Organizations,Intermediate,5 hours
+C304,Advanced AI for Organizations,Technical,AI in Organizations,Advanced,6 hours
+C305,Introduction to AI for Society,Technical,AI in Society,Beginner,4 hours
+C306,AI for Society Practitioner,Technical,AI in Society,Intermediate,5 hours
+C307,Advanced AI for Society,Technical,AI in Society,Advanced,6 hours
+C308,Introduction to AI for the Public Sector,Technical,AI in Public Sector,Beginner,4 hours
+C309,AI for the Public Sector Practitioner,Technical,AI in Public Sector,Intermediate,5 hours
+C310,Advanced AI for the Public Sector,Technical,AI in Public Sector,Advanced,6 hours
+C311,Introduction to AI for the Private Sector,Technical,AI in Private Sector,Beginner,4 hours
+C312,AI for the Private Sector Practitioner,Technical,AI in Private Sector,Intermediate,5 hours
+C313,Advanced AI for the Private Sector,Technical,AI in Private Sector,Advanced,6 hours
+C314,Introduction to AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Beginner,4 hours
+C315,AI for the Nonprofit Sector Practitioner,Technical,AI in Nonprofit Sector,Intermediate,5 hours
+C316,Advanced AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Advanced,6 hours
+C317,Introduction to AI for the Education Sector,Technical,AI in Education Sector,Beginner,4 hours
+C318,AI for the Education Sector Practitioner,Technical,AI in Education Sector,Intermediate,5 hours
+C319,Advanced AI for the Education Sector,Technical,AI in Education Sector,Advanced,6 hours
+C320,Introduction to AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Beginner,4 hours
+C321,AI for the Healthcare Sector Practitioner,Technical,AI in Healthcare Sector,Intermediate,5 hours
+C322,Advanced AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Advanced,6 hours
+C323,Introduction to AI for the Financial Sector,Technical,AI in Financial Sector,Beginner,4 hours
+C324,AI for the Financial Sector Practitioner,Technical,AI in Financial Sector,Intermediate,5 hours
+C325,Advanced AI for the Financial Sector,Technical,AI in Financial Sector,Advanced,6 hours
+C326,Introduction to AI for the Marketing Sector,Technical,AI in Marketing Sector,Beginner,4 hours
+C327,AI for the Marketing Sector Practitioner,Technical,AI in Marketing Sector,Intermediate,5 hours
+C328,Advanced AI for the Marketing Sector,Technical,AI in Marketing Sector,Advanced,6 hours
+C329,Introduction to AI for the Sales Sector,Technical,AI in Sales Sector,Beginner,4 hours
+C330,AI for the Sales Sector Practitioner,Technical,AI in Sales Sector,Intermediate,5 hours
+C331,Advanced AI for the Sales Sector,Technical,AI in Sales Sector,Advanced,6 hours
+C332,Introduction to AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Beginner,4 hours
+C333,AI for the Customer Service Sector Practitioner,Technical,AI in Customer Service Sector,Intermediate,5 hours
+C334,Advanced AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Advanced,6 hours
+C335,Introduction to AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Beginner,4 hours
+C336,AI for the Supply Chain Sector Practitioner,Technical,AI in Supply Chain Sector,Intermediate,5 hours
+C337,Advanced AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Advanced,6 hours
+C338,Introduction to AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Beginner,4 hours
+C339,AI for the Manufacturing Sector Practitioner,Technical,AI in Manufacturing Sector,Intermediate,5 hours
+C340,Advanced AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Advanced,6 hours
+C341,Introduction to AI for the Logistics Sector,Technical,AI in Logistics Sector,Beginner,4 hours
+C342,AI for the Logistics Sector Practitioner,Technical,AI in Logistics Sector,Intermediate,5 hours
+C343,Advanced AI for the Logistics Sector,Technical,AI in Logistics Sector,Advanced,6 hours
+C344,Introduction to AI for the Retail Sector,Technical,AI in Retail Sector,Beginner,4 hours
+C345,AI for the Retail Sector Practitioner,Technical,AI in Retail Sector,Intermediate,5 hours
+C346,Advanced AI for the Retail Sector,Technical,AI in Retail Sector,Advanced,6 hours
+C347,Introduction to AI for E-commerce,Technical,AI in E-commerce,Beginner,4 hours
+C348,AI for E-commerce Practitioner,Technical,AI in E-commerce,Intermediate,5 hours
+C349,Advanced AI for E-commerce,Technical,AI in E-commerce,Advanced,6 hours
+C350,Introduction to AI for Education,Technical,AI in Education,Beginner,4 hours
+C351,AI for Education Practitioner,Technical,AI in Education,Intermediate,5 hours
+C352,Advanced AI for Education,Technical,AI in Education,Advanced,6 hours
+C353,Introduction to AI for Government,Technical,AI in Government,Beginner,4 hours
+C354,AI for Government Practitioner,Technical,AI in Government,Intermediate,5 hours
+C355,Advanced AI for Government,Technical,AI in Government,Advanced,6 hours
+C356,Introduction to AI for Nonprofits,Technical,AI in Nonprofits,Beginner,4 hours
+C357,AI for Nonprofits Practitioner,Technical,AI in Nonprofits,Intermediate,5 hours
+C358,Advanced AI for Nonprofits,Technical,AI in Nonprofits,Advanced,6 hours
+C359,Introduction to AI for Startups,Technical,AI in Startups,Beginner,4 hours
+C360,AI for Startups Practitioner,Technical,AI in Startups,Intermediate,5 hours
+C361,Advanced AI for Startups,Technical,AI in Startups,Advanced,6 hours
+C362,Introduction to AI for Small Business,Technical,AI in Small Business,Beginner,4 hours
+C363,AI for Small Business Practitioner,Technical,AI in Small Business,Intermediate,5 hours
+C364,Advanced AI for Small Business,Technical,AI in Small Business,Advanced,6 hours
+C365,Introduction to AI for Entrepreneurs,Technical,AI in Entrepreneurs,Beginner,4 hours
+C366,AI for Entrepreneurs Practitioner,Technical,AI in Entrepreneurs,Intermediate,5 hours
+C367,Advanced AI for Entrepreneurs,Technical,AI in Entrepreneurs,Advanced,6 hours
+C368,Introduction to AI for Executives,Technical,AI in Executives,Beginner,4 hours
+C369,AI for Executives Practitioner,Technical,AI in Executives,Intermediate,5 hours
+C370,Advanced AI for Executives,Technical,AI in Executives,Advanced,6 hours
+C371,Introduction to AI for Managers,Technical,AI in Managers,Beginner,4 hours
+C372,AI for Managers Practitioner,Technical,AI in Managers,Intermediate,5 hours
+C373,Advanced AI for Managers,Technical,AI in Managers,Advanced,6 hours
+C374,Introduction to AI for Leaders,Technical,AI in Leaders,Beginner,4 hours
+C375,AI for Leaders Practitioner,Technical,AI in Leaders,Intermediate,5 hours
+C376,Advanced AI for Leaders,Technical,AI in Leaders,Advanced,6 hours
+C377,Introduction to AI for Teams,Technical,AI in Teams,Beginner,4 hours
+C378,AI for Teams Practitioner,Technical,AI in Teams,Intermediate,5 hours
+C379,Advanced AI for Teams,Technical,AI in Teams,Advanced,6 hours
+C380,Introduction to AI for Organizations,Technical,AI in Organizations,Beginner,4 hours
+C381,AI for Organizations Practitioner,Technical,AI in Organizations,Intermediate,5 hours
+C382,Advanced AI for Organizations,Technical,AI in Organizations,Advanced,6 hours
+C383,Introduction to AI for Society,Technical,AI in Society,Beginner,4 hours
+C384,AI for Society Practitioner,Technical,AI in Society,Intermediate,5 hours
+C385,Advanced AI for Society,Technical,AI in Society,Advanced,6 hours
+C386,Introduction to AI for the Public Sector,Technical,AI in Public Sector,Beginner,4 hours
+C387,AI for the Public Sector Practitioner,Technical,AI in Public Sector,Intermediate,5 hours
+C388,Advanced AI for the Public Sector,Technical,AI in Public Sector,Advanced,6 hours
+C389,Introduction to AI for the Private Sector,Technical,AI in Private Sector,Beginner,4 hours
+C390,AI for the Private Sector Practitioner,Technical,AI in Private Sector,Intermediate,5 hours
+C391,Advanced AI for the Private Sector,Technical,AI in Private Sector,Advanced,6 hours
+C392,Introduction to AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Beginner,4 hours
+C393,AI for the Nonprofit Sector Practitioner,Technical,AI in Nonprofit Sector,Intermediate,5 hours
+C394,Advanced AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Advanced,6 hours
+C395,Introduction to AI for the Education Sector,Technical,AI in Education Sector,Beginner,4 hours
+C396,AI for the Education Sector Practitioner,Technical,AI in Education Sector,Intermediate,5 hours
+C397,Advanced AI for the Education Sector,Technical,AI in Education Sector,Advanced,6 hours
+C398,Introduction to AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Beginner,4 hours
+C399,AI for the Healthcare Sector Practitioner,Technical,AI in Healthcare Sector,Intermediate,5 hours
+C400,Advanced AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Advanced,6 hours
+C401,Introduction to AI for the Financial Sector,Technical,AI in Financial Sector,Beginner,4 hours
+C402,AI for the Financial Sector Practitioner,Technical,AI in Financial Sector,Intermediate,5 hours
+C403,Advanced AI for the Financial Sector,Technical,AI in Financial Sector,Advanced,6 hours
+C404,Introduction to AI for the Marketing Sector,Technical,AI in Marketing Sector,Beginner,4 hours
+C405,AI for the Marketing Sector Practitioner,Technical,AI in Marketing Sector,Intermediate,5 hours
+C406,Advanced AI for the Marketing Sector,Technical,AI in Marketing Sector,Advanced,6 hours
+C407,Introduction to AI for the Sales Sector,Technical,AI in Sales Sector,Beginner,4 hours
+C408,AI for the Sales Sector Practitioner,Technical,AI in Sales Sector,Intermediate,5 hours
+C409,Advanced AI for the Sales Sector,Technical,AI in Sales Sector,Advanced,6 hours
+C410,Introduction to AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Beginner,4 hours
+C411,AI for the Customer Service Sector Practitioner,Technical,AI in Customer Service Sector,Intermediate,5 hours
+C412,Advanced AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Advanced,6 hours
+C413,Introduction to AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Beginner,4 hours
+C414,AI for the Supply Chain Sector Practitioner,Technical,AI in Supply Chain Sector,Intermediate,5 hours
+C415,Advanced AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Advanced,6 hours
+C416,Introduction to AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Beginner,4 hours
+C417,AI for the Manufacturing Sector Practitioner,Technical,AI in Manufacturing Sector,Intermediate,5 hours
+C418,Advanced AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Advanced,6 hours
+C419,Introduction to AI for the Logistics Sector,Technical,AI in Logistics Sector,Beginner,4 hours
+C420,AI for the Logistics Sector Practitioner,Technical,AI in Logistics Sector,Intermediate,5 hours
+C421,Advanced AI for the Logistics Sector,Technical,AI in Logistics Sector,Advanced,6 hours
+C422,Introduction to AI for the Retail Sector,Technical,AI in Retail Sector,Beginner,4 hours
+C423,AI for the Retail Sector Practitioner,Technical,AI in Retail Sector,Intermediate,5 hours
+C424,Advanced AI for the Retail Sector,Technical,AI in Retail Sector,Advanced,6 hours
+C425,Introduction to AI for E-commerce,Technical,AI in E-commerce,Beginner,4 hours
+C426,AI for E-commerce Practitioner,Technical,AI in E-commerce,Intermediate,5 hours
+C427,Advanced AI for E-commerce,Technical,AI in E-commerce,Advanced,6 hours
+C428,Introduction to AI for Education,Technical,AI in Education,Beginner,4 hours
+C429,AI for Education Practitioner,Technical,AI in Education,Intermediate,5 hours
+C430,Advanced AI for Education,Technical,AI in Education,Advanced,6 hours
+C431,Introduction to AI for Government,Technical,AI in Government,Beginner,4 hours
+C432,AI for Government Practitioner,Technical,AI in Government,Intermediate,5 hours
+C433,Advanced AI for Government,Technical,AI in Government,Advanced,6 hours
+C434,Introduction to AI for Nonprofits,Technical,AI in Nonprofits,Beginner,4 hours
+C435,AI for Nonprofits Practitioner,Technical,AI in Nonprofits,Intermediate,5 hours
+C436,Advanced AI for Nonprofits,Technical,AI in Nonprofits,Advanced,6 hours
+C437,Introduction to AI for Startups,Technical,AI in Startups,Beginner,4 hours
+C438,AI for Startups Practitioner,Technical,AI in Startups,Intermediate,5 hours
+C439,Advanced AI for Startups,Technical,AI in Startups,Advanced,6 hours
+C440,Introduction to AI for Small Business,Technical,AI in Small Business,Beginner,4 hours
+C441,AI for Small Business Practitioner,Technical,AI in Small Business,Intermediate,5 hours
+C442,Advanced AI for Small Business,Technical,AI in Small Business,Advanced,6 hours
+C443,Introduction to AI for Entrepreneurs,Technical,AI in Entrepreneurs,Beginner,4 hours
+C444,AI for Entrepreneurs Practitioner,Technical,AI in Entrepreneurs,Intermediate,5 hours
+C445,Advanced AI for Entrepreneurs,Technical,AI in Entrepreneurs,Advanced,6 hours
+C446,Introduction to AI for Executives,Technical,AI in Executives,Beginner,4 hours
+C447,AI for Executives Practitioner,Technical,AI in Executives,Intermediate,5 hours
+C448,Advanced AI for Executives,Technical,AI in Executives,Advanced,6 hours
+C449,Introduction to AI for Managers,Technical,AI in Managers,Beginner,4 hours
+C450,AI for Managers Practitioner,Technical,AI in Managers,Intermediate,5 hours
+C451,Advanced AI for Managers,Technical,AI in Managers,Advanced,6 hours
+C452,Introduction to AI for Leaders,Technical,AI in Leaders,Beginner,4 hours
+C453,AI for Leaders Practitioner,Technical,AI in Leaders,Intermediate,5 hours
+C454,Advanced AI for Leaders,Technical,AI in Leaders,Advanced,6 hours
+C455,Introduction to AI for Teams,Technical,AI in Teams,Beginner,4 hours
+C456,AI for Teams Practitioner,Technical,AI in Teams,Intermediate,5 hours
+C457,Advanced AI for Teams,Technical,AI in Teams,Advanced,6 hours
+C458,Introduction to AI for Organizations,Technical,AI in Organizations,Beginner,4 hours
+C459,AI for Organizations Practitioner,Technical,AI in Organizations,Intermediate,5 hours
+C460,Advanced AI for Organizations,Technical,AI in Organizations,Advanced,6 hours
+C461,Introduction to AI for Society,Technical,AI in Society,Beginner,4 hours
+C462,AI for Society Practitioner,Technical,AI in Society,Intermediate,5 hours
+C463,Advanced AI for Society,Technical,AI in Society,Advanced,6 hours
+C464,Introduction to AI for the Public Sector,Technical,AI in Public Sector,Beginner,4 hours
+C465,AI for the Public Sector Practitioner,Technical,AI in Public Sector,Intermediate,5 hours
+C466,Advanced AI for the Public Sector,Technical,AI in Public Sector,Advanced,6 hours
+C467,Introduction to AI for the Private Sector,Technical,AI in Private Sector,Beginner,4 hours
+C468,AI for the Private Sector Practitioner,Technical,AI in Private Sector,Intermediate,5 hours
+C469,Advanced AI for the Private Sector,Technical,AI in Private Sector,Advanced,6 hours
+C470,Introduction to AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Beginner,4 hours
+C471,AI for the Nonprofit Sector Practitioner,Technical,AI in Nonprofit Sector,Intermediate,5 hours
+C472,Advanced AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Advanced,6 hours
+C473,Introduction to AI for the Education Sector,Technical,AI in Education Sector,Beginner,4 hours
+C474,AI for the Education Sector Practitioner,Technical,AI in Education Sector,Intermediate,5 hours
+C475,Advanced AI for the Education Sector,Technical,AI in Education Sector,Advanced,6 hours
+C476,Introduction to AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Beginner,4 hours
+C477,AI for the Healthcare Sector Practitioner,Technical,AI in Healthcare Sector,Intermediate,5 hours
+C478,Advanced AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Advanced,6 hours
+C479,Introduction to AI for the Financial Sector,Technical,AI in Financial Sector,Beginner,4 hours
+C480,AI for the Financial Sector Practitioner,Technical,AI in Financial Sector,Intermediate,5 hours
+C481,Advanced AI for the Financial Sector,Technical,AI in Financial Sector,Advanced,6 hours
+C482,Introduction to AI for the Marketing Sector,Technical,AI in Marketing Sector,Beginner,4 hours
+C483,AI for the Marketing Sector Practitioner,Technical,AI in Marketing Sector,Intermediate,5 hours
+C484,Advanced AI for the Marketing Sector,Technical,AI in Marketing Sector,Advanced,6 hours
+C485,Introduction to AI for the Sales Sector,Technical,AI in Sales Sector,Beginner,4 hours
+C486,AI for the Sales Sector Practitioner,Technical,AI in Sales Sector,Intermediate,5 hours
+C487,Advanced AI for the Sales Sector,Technical,AI in Sales Sector,Advanced,6 hours
+C488,Introduction to AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Beginner,4 hours
+C489,AI for the Customer Service Sector Practitioner,Technical,AI in Customer Service Sector,Intermediate,5 hours
+C490,Advanced AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Advanced,6 hours
+C491,Introduction to AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Beginner,4 hours
+C492,AI for the Supply Chain Sector Practitioner,Technical,AI in Supply Chain Sector,Intermediate,5 hours
+C493,Advanced AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Advanced,6 hours
+C494,Introduction to AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Beginner,4 hours
+C495,AI for the Manufacturing Sector Practitioner,Technical,AI in Manufacturing Sector,Intermediate,5 hours
+C496,Advanced AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Advanced,6 hours
+C497,Introduction to AI for the Logistics Sector,Technical,AI in Logistics Sector,Beginner,4 hours
+C498,AI for the Logistics Sector Practitioner,Technical,AI in Logistics Sector,Intermediate,5 hours
+C499,Advanced AI for the Logistics Sector,Technical,AI in Logistics Sector,Advanced,6 hours
+C500,Introduction to AI for the Retail Sector,Technical,AI in Retail Sector,Beginner,4 hours
+C501,AI for the Retail Sector Practitioner,Technical,AI in Retail Sector,Intermediate,5 hours
+C502,Advanced AI for the Retail Sector,Technical,AI in Retail Sector,Advanced,6 hours
+C503,Introduction to AI for E-commerce,Technical,AI in E-commerce,Beginner,4 hours
+C504,AI for E-commerce Practitioner,Technical,AI in E-commerce,Intermediate,5 hours
+C505,Advanced AI for E-commerce,Technical,AI in E-commerce,Advanced,6 hours
+C506,Introduction to AI for Education,Technical,AI in Education,Beginner,4 hours
+C507,AI for Education Practitioner,Technical,AI in Education,Intermediate,5 hours
+C508,Advanced AI for Education,Technical,AI in Education,Advanced,6 hours
+C509,Introduction to AI for Government,Technical,AI in Government,Beginner,4 hours
+C510,AI for Government Practitioner,Technical,AI in Government,Intermediate,5 hours
+C511,Advanced AI for Government,Technical,AI in Government,Advanced,6 hours
+C512,Introduction to AI for Nonprofits,Technical,AI in Nonprofits,Beginner,4 hours
+C513,AI for Nonprofits Practitioner,Technical,AI in Nonprofits,Intermediate,5 hours
+C514,Advanced AI for Nonprofits,Technical,AI in Nonprofits,Advanced,6 hours
+C515,Introduction to AI for Startups,Technical,AI in Startups,Beginner,4 hours
+C516,AI for Startups Practitioner,Technical,AI in Startups,Intermediate,5 hours
+C517,Advanced AI for Startups,Technical,AI in Startups,Advanced,6 hours
+C518,Introduction to AI for Small Business,Technical,AI in Small Business,Beginner,4 hours
+C519,AI for Small Business Practitioner,Technical,AI in Small Business,Intermediate,5 hours
+C520,Advanced AI for Small Business,Technical,AI in Small Business,Advanced,6 hours
+C521,Introduction to AI for Entrepreneurs,Technical,AI in Entrepreneurs,Beginner,4 hours
+C522,AI for Entrepreneurs Practitioner,Technical,AI in Entrepreneurs,Intermediate,5 hours
+C523,Advanced AI for Entrepreneurs,Technical,AI in Entrepreneurs,Advanced,6 hours
+C524,Introduction to AI for Executives,Technical,AI in Executives,Beginner,4 hours
+C525,AI for Executives Practitioner,Technical,AI in Executives,Intermediate,5 hours
+C526,Advanced AI for Executives,Technical,AI in Executives,Advanced,6 hours
+C527,Introduction to AI for Managers,Technical,AI in Managers,Beginner,4 hours
+C528,AI for Managers Practitioner,Technical,AI in Managers,Intermediate,5 hours
+C529,Advanced AI for Managers,Technical,AI in Managers,Advanced,6 hours
+C530,Introduction to AI for Leaders,Technical,AI in Leaders,Beginner,4 hours
+C531,AI for Leaders Practitioner,Technical,AI in Leaders,Intermediate,5 hours
+C532,Advanced AI for Leaders,Technical,AI in Leaders,Advanced,6 hours
+C533,Introduction to AI for Teams,Technical,AI in Teams,Beginner,4 hours
+C534,AI for Teams Practitioner,Technical,AI in Teams,Intermediate,5 hours
+C535,Advanced AI for Teams,Technical,AI in Teams,Advanced,6 hours
+C536,Introduction to AI for Organizations,Technical,AI in Organizations,Beginner,4 hours
+C537,AI for Organizations Practitioner,Technical,AI in Organizations,Intermediate,5 hours
+C538,Advanced AI for Organizations,Technical,AI in Organizations,Advanced,6 hours
+C539,Introduction to AI for Society,Technical,AI in Society,Beginner,4 hours
+C540,AI for Society Practitioner,Technical,AI in Society,Intermediate,5 hours
+C541,Advanced AI for Society,Technical,AI in Society,Advanced,6 hours
+C542,Introduction to AI for the Public Sector,Technical,AI in Public Sector,Beginner,4 hours
+C543,AI for the Public Sector Practitioner,Technical,AI in Public Sector,Intermediate,5 hours
+C544,Advanced AI for the Public Sector,Technical,AI in Public Sector,Advanced,6 hours
+C545,Introduction to AI for the Private Sector,Technical,AI in Private Sector,Beginner,4 hours
+C546,AI for the Private Sector Practitioner,Technical,AI in Private Sector,Intermediate,5 hours
+C547,Advanced AI for the Private Sector,Technical,AI in Private Sector,Advanced,6 hours
+C548,Introduction to AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Beginner,4 hours
+C549,AI for the Nonprofit Sector Practitioner,Technical,AI in Nonprofit Sector,Intermediate,5 hours
+C550,Advanced AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Advanced,6 hours
+C551,Introduction to AI for the Education Sector,Technical,AI in Education Sector,Beginner,4 hours
+C552,AI for the Education Sector Practitioner,Technical,AI in Education Sector,Intermediate,5 hours
+C553,Advanced AI for the Education Sector,Technical,AI in Education Sector,Advanced,6 hours
+C554,Introduction to AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Beginner,4 hours
+C555,AI for the Healthcare Sector Practitioner,Technical,AI in Healthcare Sector,Intermediate,5 hours
+C556,Advanced AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Advanced,6 hours
+C557,Introduction to AI for the Financial Sector,Technical,AI in Financial Sector,Beginner,4 hours
+C558,AI for the Financial Sector Practitioner,Technical,AI in Financial Sector,Intermediate,5 hours
+C559,Advanced AI for the Financial Sector,Technical,AI in Financial Sector,Advanced,6 hours
+C560,Introduction to AI for the Marketing Sector,Technical,AI in Marketing Sector,Beginner,4 hours
+C561,AI for the Marketing Sector Practitioner,Technical,AI in Marketing Sector,Intermediate,5 hours
+C562,Advanced AI for the Marketing Sector,Technical,AI in Marketing Sector,Advanced,6 hours
+C563,Introduction to AI for the Sales Sector,Technical,AI in Sales Sector,Beginner,4 hours
+C564,AI for the Sales Sector Practitioner,Technical,AI in Sales Sector,Intermediate,5 hours
+C565,Advanced AI for the Sales Sector,Technical,AI in Sales Sector,Advanced,6 hours
+C566,Introduction to AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Beginner,4 hours
+C567,AI for the Customer Service Sector Practitioner,Technical,AI in Customer Service Sector,Intermediate,5 hours
+C568,Advanced AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Advanced,6 hours
+C569,Introduction to AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Beginner,4 hours
+C570,AI for the Supply Chain Sector Practitioner,Technical,AI in Supply Chain Sector,Intermediate,5 hours
+C571,Advanced AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Advanced,6 hours
+C572,Introduction to AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Beginner,4 hours
+C573,AI for the Manufacturing Sector Practitioner,Technical,AI in Manufacturing Sector,Intermediate,5 hours
+C574,Advanced AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Advanced,6 hours
+C575,Introduction to AI for the Logistics Sector,Technical,AI in Logistics Sector,Beginner,4 hours
+C576,AI for the Logistics Sector Practitioner,Technical,AI in Logistics Sector,Intermediate,5 hours
+C577,Advanced AI for the Logistics Sector,Technical,AI in Logistics Sector,Advanced,6 hours
+C578,Introduction to AI for the Retail Sector,Technical,AI in Retail Sector,Beginner,4 hours
+C579,AI for the Retail Sector Practitioner,Technical,AI in Retail Sector,Intermediate,5 hours
+C580,Advanced AI for the Retail Sector,Technical,AI in Retail Sector,Advanced,6 hours
+C581,Introduction to AI for E-commerce,Technical,AI in E-commerce,Beginner,4 hours
+C582,AI for E-commerce Practitioner,Technical,AI in E-commerce,Intermediate,5 hours
+C583,Advanced AI for E-commerce,Technical,AI in E-commerce,Advanced,6 hours
+C584,Introduction to AI for Education,Technical,AI in Education,Beginner,4 hours
+C585,AI for Education Practitioner,Technical,AI in Education,Intermediate,5 hours
+C586,Advanced AI for Education,Technical,AI in Education,Advanced,6 hours
+C587,Introduction to AI for Government,Technical,AI in Government,Beginner,4 hours
+C588,AI for Government Practitioner,Technical,AI in Government,Intermediate,5 hours
+C589,Advanced AI for Government,Technical,AI in Government,Advanced,6 hours
+C590,Introduction to AI for Nonprofits,Technical,AI in Nonprofits,Beginner,4 hours
+C591,AI for Nonprofits Practitioner,Technical,AI in Nonprofits,Intermediate,5 hours
+C592,Advanced AI for Nonprofits,Technical,AI in Nonprofits,Advanced,6 hours
+C593,Introduction to AI for Startups,Technical,AI in Startups,Beginner,4 hours
+C594,AI for Startups Practitioner,Technical,AI in Startups,Intermediate,5 hours
+C595,Advanced AI for Startups,Technical,AI in Startups,Advanced,6 hours
+C596,Introduction to AI for Small Business,Technical,AI in Small Business,Beginner,4 hours
+C597,AI for Small Business Practitioner,Technical,AI in Small Business,Intermediate,5 hours
+C598,Advanced AI for Small Business,Technical,AI in Small Business,Advanced,6 hours
+C599,Introduction to AI for Entrepreneurs,Technical,AI in Entrepreneurs,Beginner,4 hours
+C600,AI for Entrepreneurs Practitioner,Technical,AI in Entrepreneurs,Intermediate,5 hours
+C601,Advanced AI for Entrepreneurs,Technical,AI in Entrepreneurs,Advanced,6 hours
+C602,Introduction to AI for Executives,Technical,AI in Executives,Beginner,4 hours
+C603,AI for Executives Practitioner,Technical,AI in Executives,Intermediate,5 hours
+C604,Advanced AI for Executives,Technical,AI in Executives,Advanced,6 hours
+C605,Introduction to AI for Managers,Technical,AI in Managers,Beginner,4 hours
+C606,AI for Managers Practitioner,Technical,AI in Managers,Intermediate,5 hours
+C607,Advanced AI for Managers,Technical,AI in Managers,Advanced,6 hours
+C608,Introduction to AI for Leaders,Technical,AI in Leaders,Beginner,4 hours
+C609,AI for Leaders Practitioner,Technical,AI in Leaders,Intermediate,5 hours
+C610,Advanced AI for Leaders,Technical,AI in Leaders,Advanced,6 hours
+C611,Introduction to AI for Teams,Technical,AI in Teams,Beginner,4 hours
+C612,AI for Teams Practitioner,Technical,AI in Teams,Intermediate,5 hours
+C613,Advanced AI for Teams,Technical,AI in Teams,Advanced,6 hours
+C614,Introduction to AI for Organizations,Technical,AI in Organizations,Beginner,4 hours
+C615,AI for Organizations Practitioner,Technical,AI in Organizations,Intermediate,5 hours
+C616,Advanced AI for Organizations,Technical,AI in Organizations,Advanced,6 hours
+C617,Introduction to AI for Society,Technical,AI in Society,Beginner,4 hours
+C618,AI for Society Practitioner,Technical,AI in Society,Intermediate,5 hours
+C619,Advanced AI for Society,Technical,AI in Society,Advanced,6 hours
+C620,Introduction to AI for the Public Sector,Technical,AI in Public Sector,Beginner,4 hours
+C621,AI for the Public Sector Practitioner,Technical,AI in Public Sector,Intermediate,5 hours
+C622,Advanced AI for the Public Sector,Technical,AI in Public Sector,Advanced,6 hours
+C623,Introduction to AI for the Private Sector,Technical,AI in Private Sector,Beginner,4 hours
+C624,AI for the Private Sector Practitioner,Technical,AI in Private Sector,Intermediate,5 hours
+C625,Advanced AI for the Private Sector,Technical,AI in Private Sector,Advanced,6 hours
+C626,Introduction to AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Beginner,4 hours
+C627,AI for the Nonprofit Sector Practitioner,Technical,AI in Nonprofit Sector,Intermediate,5 hours
+C628,Advanced AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Advanced,6 hours
+C629,Introduction to AI for the Education Sector,Technical,AI in Education Sector,Beginner,4 hours
+C630,AI for the Education Sector Practitioner,Technical,AI in Education Sector,Intermediate,5 hours
+C631,Advanced AI for the Education Sector,Technical,AI in Education Sector,Advanced,6 hours
+C632,Introduction to AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Beginner,4 hours
+C633,AI for the Healthcare Sector Practitioner,Technical,AI in Healthcare Sector,Intermediate,5 hours
+C634,Advanced AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Advanced,6 hours
+C635,Introduction to AI for the Financial Sector,Technical,AI in Financial Sector,Beginner,4 hours
+C636,AI for the Financial Sector Practitioner,Technical,AI in Financial Sector,Intermediate,5 hours
+C637,Advanced AI for the Financial Sector,Technical,AI in Financial Sector,Advanced,6 hours
+C638,Introduction to AI for the Marketing Sector,Technical,AI in Marketing Sector,Beginner,4 hours
+C639,AI for the Marketing Sector Practitioner,Technical,AI in Marketing Sector,Intermediate,5 hours
+C640,Advanced AI for the Marketing Sector,Technical,AI in Marketing Sector,Advanced,6 hours
+C641,Introduction to AI for the Sales Sector,Technical,AI in Sales Sector,Beginner,4 hours
+C642,AI for the Sales Sector Practitioner,Technical,AI in Sales Sector,Intermediate,5 hours
+C643,Advanced AI for the Sales Sector,Technical,AI in Sales Sector,Advanced,6 hours
+C644,Introduction to AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Beginner,4 hours
+C645,AI for the Customer Service Sector Practitioner,Technical,AI in Customer Service Sector,Intermediate,5 hours
+C646,Advanced AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Advanced,6 hours
+C647,Introduction to AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Beginner,4 hours
+C648,AI for the Supply Chain Sector Practitioner,Technical,AI in Supply Chain Sector,Intermediate,5 hours
+C649,Advanced AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Advanced,6 hours
+C650,Introduction to AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Beginner,4 hours
+C651,AI for the Manufacturing Sector Practitioner,Technical,AI in Manufacturing Sector,Intermediate,5 hours
+C652,Advanced AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Advanced,6 hours
+C653,Introduction to AI for the Logistics Sector,Technical,AI in Logistics Sector,Beginner,4 hours
+C654,AI for the Logistics Sector Practitioner,Technical,AI in Logistics Sector,Intermediate,5 hours
+C655,Advanced AI for the Logistics Sector,Technical,AI in Logistics Sector,Advanced,6 hours
+C656,Introduction to AI for the Retail Sector,Technical,AI in Retail Sector,Beginner,4 hours
+C657,AI for the Retail Sector Practitioner,Technical,AI in Retail Sector,Intermediate,5 hours
+C658,Advanced AI for the Retail Sector,Technical,AI in Retail Sector,Advanced,6 hours
+C659,Introduction to AI for E-commerce,Technical,AI in E-commerce,Beginner,4 hours
+C660,AI for E-commerce Practitioner,Technical,AI in E-commerce,Intermediate,5 hours
+C661,Advanced AI for E-commerce,Technical,AI in E-commerce,Advanced,6 hours
+C662,Introduction to AI for Education,Technical,AI in Education,Beginner,4 hours
+C663,AI for Education Practitioner,Technical,AI in Education,Intermediate,5 hours
+C664,Advanced AI for Education,Technical,AI in Education,Advanced,6 hours
+C665,Introduction to AI for Government,Technical,AI in Government,Beginner,4 hours
+C666,AI for Government Practitioner,Technical,AI in Government,Intermediate,5 hours
+C667,Advanced AI for Government,Technical,AI in Government,Advanced,6 hours
+C668,Introduction to AI for Nonprofits,Technical,AI in Nonprofits,Beginner,4 hours
+C669,AI for Nonprofits Practitioner,Technical,AI in Nonprofits,Intermediate,5 hours
+C670,Advanced AI for Nonprofits,Technical,AI in Nonprofits,Advanced,6 hours
+C671,Introduction to AI for Startups,Technical,AI in Startups,Beginner,4 hours
+C672,AI for Startups Practitioner,Technical,AI in Startups,Intermediate,5 hours
+C673,Advanced AI for Startups,Technical,AI in Startups,Advanced,6 hours
+C674,Introduction to AI for Small Business,Technical,AI in Small Business,Beginner,4 hours
+C675,AI for Small Business Practitioner,Technical,AI in Small Business,Intermediate,5 hours
+C676,Advanced AI for Small Business,Technical,AI in Small Business,Advanced,6 hours
+C677,Introduction to AI for Entrepreneurs,Technical,AI in Entrepreneurs,Beginner,4 hours
+C678,AI for Entrepreneurs Practitioner,Technical,AI in Entrepreneurs,Intermediate,5 hours
+C679,Advanced AI for Entrepreneurs,Technical,AI in Entrepreneurs,Advanced,6 hours
+C680,Introduction to AI for Executives,Technical,AI in Executives,Beginner,4 hours
+C681,AI for Executives Practitioner,Technical,AI in Executives,Intermediate,5 hours
+C682,Advanced AI for Executives,Technical,AI in Executives,Advanced,6 hours
+C683,Introduction to AI for Managers,Technical,AI in Managers,Beginner,4 hours
+C684,AI for Managers Practitioner,Technical,AI in Managers,Intermediate,5 hours
+C685,Advanced AI for Managers,Technical,AI in Managers,Advanced,6 hours
+C686,Introduction to AI for Leaders,Technical,AI in Leaders,Beginner,4 hours
+C687,AI for Leaders Practitioner,Technical,AI in Leaders,Intermediate,5 hours
+C688,Advanced AI for Leaders,Technical,AI in Leaders,Advanced,6 hours
+C689,Introduction to AI for Teams,Technical,AI in Teams,Beginner,4 hours
+C690,AI for Teams Practitioner,Technical,AI in Teams,Intermediate,5 hours
+C691,Advanced AI for Teams,Technical,AI in Teams,Advanced,6 hours
+C692,Introduction to AI for Organizations,Technical,AI in Organizations,Beginner,4 hours
+C693,AI for Organizations Practitioner,Technical,AI in Organizations,Intermediate,5 hours
+C694,Advanced AI for Organizations,Technical,AI in Organizations,Advanced,6 hours
+C695,Introduction to AI for Society,Technical,AI in Society,Beginner,4 hours
+C696,AI for Society Practitioner,Technical,AI in Society,Intermediate,5 hours
+C697,Advanced AI for Society,Technical,AI in Society,Advanced,6 hours
+C698,Introduction to AI for the Public Sector,Technical,AI in Public Sector,Beginner,4 hours
+C699,AI for the Public Sector Practitioner,Technical,AI in Public Sector,Intermediate,5 hours
+C700,Advanced AI for the Public Sector,Technical,AI in Public Sector,Advanced,6 hours
+C701,Introduction to AI for the Private Sector,Technical,AI in Private Sector,Beginner,4 hours
+C702,AI for the Private Sector Practitioner,Technical,AI in Private Sector,Intermediate,5 hours
+C703,Advanced AI for the Private Sector,Technical,AI in Private Sector,Advanced,6 hours
+C704,Introduction to AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Beginner,4 hours
+C705,AI for the Nonprofit Sector Practitioner,Technical,AI in Nonprofit Sector,Intermediate,5 hours
+C706,Advanced AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Advanced,6 hours
+C707,Introduction to AI for the Education Sector,Technical,AI in Education Sector,Beginner,4 hours
+C708,AI for the Education Sector Practitioner,Technical,AI in Education Sector,Intermediate,5 hours
+C709,Advanced AI for the Education Sector,Technical,AI in Education Sector,Advanced,6 hours
+C710,Introduction to AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Beginner,4 hours
+C711,AI for the Healthcare Sector Practitioner,Technical,AI in Healthcare Sector,Intermediate,5 hours
+C712,Advanced AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Advanced,6 hours
+C713,Introduction to AI for the Financial Sector,Technical,AI in Financial Sector,Beginner,4 hours
+C714,AI for the Financial Sector Practitioner,Technical,AI in Financial Sector,Intermediate,5 hours
+C715,Advanced AI for the Financial Sector,Technical,AI in Financial Sector,Advanced,6 hours
+C716,Introduction to AI for the Marketing Sector,Technical,AI in Marketing Sector,Beginner,4 hours
+C717,AI for the Marketing Sector Practitioner,Technical,AI in Marketing Sector,Intermediate,5 hours
+C718,Advanced AI for the Marketing Sector,Technical,AI in Marketing Sector,Advanced,6 hours
+C719,Introduction to AI for the Sales Sector,Technical,AI in Sales Sector,Beginner,4 hours
+C720,AI for the Sales Sector Practitioner,Technical,AI in Sales Sector,Intermediate,5 hours
+C721,Advanced AI for the Sales Sector,Technical,AI in Sales Sector,Advanced,6 hours
+C722,Introduction to AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Beginner,4 hours
+C723,AI for the Customer Service Sector Practitioner,Technical,AI in Customer Service Sector,Intermediate,5 hours
+C724,Advanced AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Advanced,6 hours
+C725,Introduction to AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Beginner,4 hours
+C726,AI for the Supply Chain Sector Practitioner,Technical,AI in Supply Chain Sector,Intermediate,5 hours
+C727,Advanced AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Advanced,6 hours
+C728,Introduction to AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Beginner,4 hours
+C729,AI for the Manufacturing Sector Practitioner,Technical,AI in Manufacturing Sector,Intermediate,5 hours
+C730,Advanced AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Advanced,6 hours
+C731,Introduction to AI for the Logistics Sector,Technical,AI in Logistics Sector,Beginner,4 hours
+C732,AI for the Logistics Sector Practitioner,Technical,AI in Logistics Sector,Intermediate,5 hours
+C733,Advanced AI for the Logistics Sector,Technical,AI in Logistics Sector,Advanced,6 hours
+C734,Introduction to AI for the Retail Sector,Technical,AI in Retail Sector,Beginner,4 hours
+C735,AI for the Retail Sector Practitioner,Technical,AI in Retail Sector,Intermediate,5 hours
+C736,Advanced AI for the Retail Sector,Technical,AI in Retail Sector,Advanced,6 hours
+C737,Introduction to AI for E-commerce,Technical,AI in E-commerce,Beginner,4 hours
+C738,AI for E-commerce Practitioner,Technical,AI in E-commerce,Intermediate,5 hours
+C739,Advanced AI for E-commerce,Technical,AI in E-commerce,Advanced,6 hours
+C740,Introduction to AI for Education,Technical,AI in Education,Beginner,4 hours
+C741,AI for Education Practitioner,Technical,AI in Education,Intermediate,5 hours
+C742,Advanced AI for Education,Technical,AI in Education,Advanced,6 hours
+C743,Introduction to AI for Government,Technical,AI in Government,Beginner,4 hours
+C744,AI for Government Practitioner,Technical,AI in Government,Intermediate,5 hours
+C745,Advanced AI for Government,Technical,AI in Government,Advanced,6 hours
+C746,Introduction to AI for Nonprofits,Technical,AI in Nonprofits,Beginner,4 hours
+C747,AI for Nonprofits Practitioner,Technical,AI in Nonprofits,Intermediate,5 hours
+C748,Advanced AI for Nonprofits,Technical,AI in Nonprofits,Advanced,6 hours
+C749,Introduction to AI for Startups,Technical,AI in Startups,Beginner,4 hours
+C750,AI for Startups Practitioner,Technical,AI in Startups,Intermediate,5 hours
+C751,Advanced AI for Startups,Technical,AI in Startups,Advanced,6 hours
+C752,Introduction to AI for Small Business,Technical,AI in Small Business,Beginner,4 hours
+C753,AI for Small Business Practitioner,Technical,AI in Small Business,Intermediate,5 hours
+C754,Advanced AI for Small Business,Technical,AI in Small Business,Advanced,6 hours
+C755,Introduction to AI for Entrepreneurs,Technical,AI in Entrepreneurs,Beginner,4 hours
+C756,AI for Entrepreneurs Practitioner,Technical,AI in Entrepreneurs,Intermediate,5 hours
+C757,Advanced AI for Entrepreneurs,Technical,AI in Entrepreneurs,Advanced,6 hours
+C758,Introduction to AI for Executives,Technical,AI in Executives,Beginner,4 hours
+C759,AI for Executives Practitioner,Technical,AI in Executives,Intermediate,5 hours
+C760,Advanced AI for Executives,Technical,AI in Executives,Advanced,6 hours
+C761,Introduction to AI for Managers,Technical,AI in Managers,Beginner,4 hours
+C762,AI for Managers Practitioner,Technical,AI in Managers,Intermediate,5 hours
+C763,Advanced AI for Managers,Technical,AI in Managers,Advanced,6 hours
+C764,Introduction to AI for Leaders,Technical,AI in Leaders,Beginner,4 hours
+C765,AI for Leaders Practitioner,Technical,AI in Leaders,Intermediate,5 hours
+C766,Advanced AI for Leaders,Technical,AI in Leaders,Advanced,6 hours
+C767,Introduction to AI for Teams,Technical,AI in Teams,Beginner,4 hours
+C768,AI for Teams Practitioner,Technical,AI in Teams,Intermediate,5 hours
+C769,Advanced AI for Teams,Technical,AI in Teams,Advanced,6 hours
+C770,Introduction to AI for Organizations,Technical,AI in Organizations,Beginner,4 hours
+C771,AI for Organizations Practitioner,Technical,AI in Organizations,Intermediate,5 hours
+C772,Advanced AI for Organizations,Technical,AI in Organizations,Advanced,6 hours
+C773,Introduction to AI for Society,Technical,AI in Society,Beginner,4 hours
+C774,AI for Society Practitioner,Technical,AI in Society,Intermediate,5 hours
+C775,Advanced AI for Society,Technical,AI in Society,Advanced,6 hours
+C776,Introduction to AI for the Public Sector,Technical,AI in Public Sector,Beginner,4 hours
+C777,AI for the Public Sector Practitioner,Technical,AI in Public Sector,Intermediate,5 hours
+C778,Advanced AI for the Public Sector,Technical,AI in Public Sector,Advanced,6 hours
+C779,Introduction to AI for the Private Sector,Technical,AI in Private Sector,Beginner,4 hours
+C780,AI for the Private Sector Practitioner,Technical,AI in Private Sector,Intermediate,5 hours
+C781,Advanced AI for the Private Sector,Technical,AI in Private Sector,Advanced,6 hours
+C782,Introduction to AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Beginner,4 hours
+C783,AI for the Nonprofit Sector Practitioner,Technical,AI in Nonprofit Sector,Intermediate,5 hours
+C784,Advanced AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Advanced,6 hours
+C785,Introduction to AI for the Education Sector,Technical,AI in Education Sector,Beginner,4 hours
+C786,AI for the Education Sector Practitioner,Technical,AI in Education Sector,Intermediate,5 hours
+C787,Advanced AI for the Education Sector,Technical,AI in Education Sector,Advanced,6 hours
+C788,Introduction to AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Beginner,4 hours
+C789,AI for the Healthcare Sector Practitioner,Technical,AI in Healthcare Sector,Intermediate,5 hours
+C790,Advanced AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Advanced,6 hours
+C791,Introduction to AI for the Financial Sector,Technical,AI in Financial Sector,Beginner,4 hours
+C792,AI for the Financial Sector Practitioner,Technical,AI in Financial Sector,Intermediate,5 hours
+C793,Advanced AI for the Financial Sector,Technical,AI in Financial Sector,Advanced,6 hours
+C794,Introduction to AI for the Marketing Sector,Technical,AI in Marketing Sector,Beginner,4 hours
+C795,AI for the Marketing Sector Practitioner,Technical,AI in Marketing Sector,Intermediate,5 hours
+C796,Advanced AI for the Marketing Sector,Technical,AI in Marketing Sector,Advanced,6 hours
+C797,Introduction to AI for the Sales Sector,Technical,AI in Sales Sector,Beginner,4 hours
+C798,AI for the Sales Sector Practitioner,Technical,AI in Sales Sector,Intermediate,5 hours
+C799,Advanced AI for the Sales Sector,Technical,AI in Sales Sector,Advanced,6 hours
+C800,Introduction to AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Beginner,4 hours
+C801,AI for the Customer Service Sector Practitioner,Technical,AI in Customer Service Sector,Intermediate,5 hours
+C802,Advanced AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Advanced,6 hours
+C803,Introduction to AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Beginner,4 hours
+C804,AI for the Supply Chain Sector Practitioner,Technical,AI in Supply Chain Sector,Intermediate,5 hours
+C805,Advanced AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Advanced,6 hours
+C806,Introduction to AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Beginner,4 hours
+C807,AI for the Manufacturing Sector Practitioner,Technical,AI in Manufacturing Sector,Intermediate,5 hours
+C808,Advanced AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Advanced,6 hours
+C809,Introduction to AI for the Logistics Sector,Technical,AI in Logistics Sector,Beginner,4 hours
+C810,AI for the Logistics Sector Practitioner,Technical,AI in Logistics Sector,Intermediate,5 hours
+C811,Advanced AI for the Logistics Sector,Technical,AI in Logistics Sector,Advanced,6 hours
+C812,Introduction to AI for the Retail Sector,Technical,AI in Retail Sector,Beginner,4 hours
+C813,AI for the Retail Sector Practitioner,Technical,AI in Retail Sector,Intermediate,5 hours
+C814,Advanced AI for the Retail Sector,Technical,AI in Retail Sector,Advanced,6 hours
+C815,Introduction to AI for E-commerce,Technical,AI in E-commerce,Beginner,4 hours
+C816,AI for E-commerce Practitioner,Technical,AI in E-commerce,Intermediate,5 hours
+C817,Advanced AI for E-commerce,Technical,AI in E-commerce,Advanced,6 hours
+C818,Introduction to AI for Education,Technical,AI in Education,Beginner,4 hours
+C819,AI for Education Practitioner,Technical,AI in Education,Intermediate,5 hours
+C820,Advanced AI for Education,Technical,AI in Education,Advanced,6 hours
+C821,Introduction to AI for Government,Technical,AI in Government,Beginner,4 hours
+C822,AI for Government Practitioner,Technical,AI in Government,Intermediate,5 hours
+C823,Advanced AI for Government,Technical,AI in Government,Advanced,6 hours
+C824,Introduction to AI for Nonprofits,Technical,AI in Nonprofits,Beginner,4 hours
+C825,AI for Nonprofits Practitioner,Technical,AI in Nonprofits,Intermediate,5 hours
+C826,Advanced AI for Nonprofits,Technical,AI in Nonprofits,Advanced,6 hours
+C827,Introduction to AI for Startups,Technical,AI in Startups,Beginner,4 hours
+C828,AI for Startups Practitioner,Technical,AI in Startups,Intermediate,5 hours
+C829,Advanced AI for Startups,Technical,AI in Startups,Advanced,6 hours
+C830,Introduction to AI for Small Business,Technical,AI in Small Business,Beginner,4 hours
+C831,AI for Small Business Practitioner,Technical,AI in Small Business,Intermediate,5 hours
+C832,Advanced AI for Small Business,Technical,AI in Small Business,Advanced,6 hours
+C833,Introduction to AI for Entrepreneurs,Technical,AI in Entrepreneurs,Beginner,4 hours
+C834,AI for Entrepreneurs Practitioner,Technical,AI in Entrepreneurs,Intermediate,5 hours
+C835,Advanced AI for Entrepreneurs,Technical,AI in Entrepreneurs,Advanced,6 hours
+C836,Introduction to AI for Executives,Technical,AI in Executives,Beginner,4 hours
+C837,AI for Executives Practitioner,Technical,AI in Executives,Intermediate,5 hours
+C838,Advanced AI for Executives,Technical,AI in Executives,Advanced,6 hours
+C839,Introduction to AI for Managers,Technical,AI in Managers,Beginner,4 hours
+C840,AI for Managers Practitioner,Technical,AI in Managers,Intermediate,5 hours
+C841,Advanced AI for Managers,Technical,AI in Managers,Advanced,6 hours
+C842,Introduction to AI for Leaders,Technical,AI in Leaders,Beginner,4 hours
+C843,AI for Leaders Practitioner,Technical,AI in Leaders,Intermediate,5 hours
+C844,Advanced AI for Leaders,Technical,AI in Leaders,Advanced,6 hours
+C845,Introduction to AI for Teams,Technical,AI in Teams,Beginner,4 hours
+C846,AI for Teams Practitioner,Technical,AI in Teams,Intermediate,5 hours
+C847,Advanced AI for Teams,Technical,AI in Teams,Advanced,6 hours
+C848,Introduction to AI for Organizations,Technical,AI in Organizations,Beginner,4 hours
+C849,AI for Organizations Practitioner,Technical,AI in Organizations,Intermediate,5 hours
+C850,Advanced AI for Organizations,Technical,AI in Organizations,Advanced,6 hours
+C851,Introduction to AI for Society,Technical,AI in Society,Beginner,4 hours
+C852,AI for Society Practitioner,Technical,AI in Society,Intermediate,5 hours
+C853,Advanced AI for Society,Technical,AI in Society,Advanced,6 hours
+C854,Introduction to AI for the Public Sector,Technical,AI in Public Sector,Beginner,4 hours
+C855,AI for the Public Sector Practitioner,Technical,AI in Public Sector,Intermediate,5 hours
+C856,Advanced AI for the Public Sector,Technical,AI in Public Sector,Advanced,6 hours
+C857,Introduction to AI for the Private Sector,Technical,AI in Private Sector,Beginner,4 hours
+C858,AI for the Private Sector Practitioner,Technical,AI in Private Sector,Intermediate,5 hours
+C859,Advanced AI for the Private Sector,Technical,AI in Private Sector,Advanced,6 hours
+C860,Introduction to AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Beginner,4 hours
+C861,AI for the Nonprofit Sector Practitioner,Technical,AI in Nonprofit Sector,Intermediate,5 hours
+C862,Advanced AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Advanced,6 hours
+C863,Introduction to AI for the Education Sector,Technical,AI in Education Sector,Beginner,4 hours
+C864,AI for the Education Sector Practitioner,Technical,AI in Education Sector,Intermediate,5 hours
+C865,Advanced AI for the Education Sector,Technical,AI in Education Sector,Advanced,6 hours
+C866,Introduction to AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Beginner,4 hours
+C867,AI for the Healthcare Sector Practitioner,Technical,AI in Healthcare Sector,Intermediate,5 hours
+C868,Advanced AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Advanced,6 hours
+C869,Introduction to AI for the Financial Sector,Technical,AI in Financial Sector,Beginner,4 hours
+C870,AI for the Financial Sector Practitioner,Technical,AI in Financial Sector,Intermediate,5 hours
+C871,Advanced AI for the Financial Sector,Technical,AI in Financial Sector,Advanced,6 hours
+C872,Introduction to AI for the Marketing Sector,Technical,AI in Marketing Sector,Beginner,4 hours
+C873,AI for the Marketing Sector Practitioner,Technical,AI in Marketing Sector,Intermediate,5 hours
+C874,Advanced AI for the Marketing Sector,Technical,AI in Marketing Sector,Advanced,6 hours
+C875,Introduction to AI for the Sales Sector,Technical,AI in Sales Sector,Beginner,4 hours
+C876,AI for the Sales Sector Practitioner,Technical,AI in Sales Sector,Intermediate,5 hours
+C877,Advanced AI for the Sales Sector,Technical,AI in Sales Sector,Advanced,6 hours
+C878,Introduction to AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Beginner,4 hours
+C879,AI for the Customer Service Sector Practitioner,Technical,AI in Customer Service Sector,Intermediate,5 hours
+C880,Advanced AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Advanced,6 hours
+C881,Introduction to AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Beginner,4 hours
+C882,AI for the Supply Chain Sector Practitioner,Technical,AI in Supply Chain Sector,Intermediate,5 hours
+C883,Advanced AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Advanced,6 hours
+C884,Introduction to AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Beginner,4 hours
+C885,AI for the Manufacturing Sector Practitioner,Technical,AI in Manufacturing Sector,Intermediate,5 hours
+C886,Advanced AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Advanced,6 hours
+C887,Introduction to AI for the Logistics Sector,Technical,AI in Logistics Sector,Beginner,4 hours
+C888,AI for the Logistics Sector Practitioner,Technical,AI in Logistics Sector,Intermediate,5 hours
+C889,Advanced AI for the Logistics Sector,Technical,AI in Logistics Sector,Advanced,6 hours
+C890,Introduction to AI for the Retail Sector,Technical,AI in Retail Sector,Beginner,4 hours
+C891,AI for the Retail Sector Practitioner,Technical,AI in Retail Sector,Intermediate,5 hours
+C892,Advanced AI for the Retail Sector,Technical,AI in Retail Sector,Advanced,6 hours
+C893,Introduction to AI for E-commerce,Technical,AI in E-commerce,Beginner,4 hours
+C894,AI for E-commerce Practitioner,Technical,AI in E-commerce,Intermediate,5 hours
+C895,Advanced AI for E-commerce,Technical,AI in E-commerce,Advanced,6 hours
+C896,Introduction to AI for Education,Technical,AI in Education,Beginner,4 hours
+C897,AI for Education Practitioner,Technical,AI in Education,Intermediate,5 hours
+C898,Advanced AI for Education,Technical,AI in Education,Advanced,6 hours
+C899,Introduction to AI for Government,Technical,AI in Government,Beginner,4 hours
+C900,AI for Government Practitioner,Technical,AI in Government,Intermediate,5 hours
+C901,Advanced AI for Government,Technical,AI in Government,Advanced,6 hours
+C902,Introduction to AI for Nonprofits,Technical,AI in Nonprofits,Beginner,4 hours
+C903,AI for Nonprofits Practitioner,Technical,AI in Nonprofits,Intermediate,5 hours
+C904,Advanced AI for Nonprofits,Technical,AI in Nonprofits,Advanced,6 hours
+C905,Introduction to AI for Startups,Technical,AI in Startups,Beginner,4 hours
+C906,AI for Startups Practitioner,Technical,AI in Startups,Intermediate,5 hours
+C907,Advanced AI for Startups,Technical,AI in Startups,Advanced,6 hours
+C908,Introduction to AI for Small Business,Technical,AI in Small Business,Beginner,4 hours
+C909,AI for Small Business Practitioner,Technical,AI in Small Business,Intermediate,5 hours
+C910,Advanced AI for Small Business,Technical,AI in Small Business,Advanced,6 hours
+C911,Introduction to AI for Entrepreneurs,Technical,AI in Entrepreneurs,Beginner,4 hours
+C912,AI for Entrepreneurs Practitioner,Technical,AI in Entrepreneurs,Intermediate,5 hours
+C913,Advanced AI for Entrepreneurs,Technical,AI in Entrepreneurs,Advanced,6 hours
+C914,Introduction to AI for Executives,Technical,AI in Executives,Beginner,4 hours
+C915,AI for Executives Practitioner,Technical,AI in Executives,Intermediate,5 hours
+C916,Advanced AI for Executives,Technical,AI in Executives,Advanced,6 hours
+C917,Introduction to AI for Managers,Technical,AI in Managers,Beginner,4 hours
+C918,AI for Managers Practitioner,Technical,AI in Managers,Intermediate,5 hours
+C919,Advanced AI for Managers,Technical,AI in Managers,Advanced,6 hours
+C920,Introduction to AI for Leaders,Technical,AI in Leaders,Beginner,4 hours
+C921,AI for Leaders Practitioner,Technical,AI in Leaders,Intermediate,5 hours
+C922,Advanced AI for Leaders,Technical,AI in Leaders,Advanced,6 hours
+C923,Introduction to AI for Teams,Technical,AI in Teams,Beginner,4 hours
+C924,AI for Teams Practitioner,Technical,AI in Teams,Intermediate,5 hours
+C925,Advanced AI for Teams,Technical,AI in Teams,Advanced,6 hours
+C926,Introduction to AI for Organizations,Technical,AI in Organizations,Beginner,4 hours
+C927,AI for Organizations Practitioner,Technical,AI in Organizations,Intermediate,5 hours
+C928,Advanced AI for Organizations,Technical,AI in Organizations,Advanced,6 hours
+C929,Introduction to AI for Society,Technical,AI in Society,Beginner,4 hours
+C930,AI for Society Practitioner,Technical,AI in Society,Intermediate,5 hours
+C931,Advanced AI for Society,Technical,AI in Society,Advanced,6 hours
+C932,Introduction to AI for the Public Sector,Technical,AI in Public Sector,Beginner,4 hours
+C933,AI for the Public Sector Practitioner,Technical,AI in Public Sector,Intermediate,5 hours
+C934,Advanced AI for the Public Sector,Technical,AI in Public Sector,Advanced,6 hours
+C935,Introduction to AI for the Private Sector,Technical,AI in Private Sector,Beginner,4 hours
+C936,AI for the Private Sector Practitioner,Technical,AI in Private Sector,Intermediate,5 hours
+C937,Advanced AI for the Private Sector,Technical,AI in Private Sector,Advanced,6 hours
+C938,Introduction to AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Beginner,4 hours
+C939,AI for the Nonprofit Sector Practitioner,Technical,AI in Nonprofit Sector,Intermediate,5 hours
+C940,Advanced AI for the Nonprofit Sector,Technical,AI in Nonprofit Sector,Advanced,6 hours
+C941,Introduction to AI for the Education Sector,Technical,AI in Education Sector,Beginner,4 hours
+C942,AI for the Education Sector Practitioner,Technical,AI in Education Sector,Intermediate,5 hours
+C943,Advanced AI for the Education Sector,Technical,AI in Education Sector,Advanced,6 hours
+C944,Introduction to AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Beginner,4 hours
+C945,AI for the Healthcare Sector Practitioner,Technical,AI in Healthcare Sector,Intermediate,5 hours
+C946,Advanced AI for the Healthcare Sector,Technical,AI in Healthcare Sector,Advanced,6 hours
+C947,Introduction to AI for the Financial Sector,Technical,AI in Financial Sector,Beginner,4 hours
+C948,AI for the Financial Sector Practitioner,Technical,AI in Financial Sector,Intermediate,5 hours
+C949,Advanced AI for the Financial Sector,Technical,AI in Financial Sector,Advanced,6 hours
+C950,Introduction to AI for the Marketing Sector,Technical,AI in Marketing Sector,Beginner,4 hours
+C951,AI for the Marketing Sector Practitioner,Technical,AI in Marketing Sector,Intermediate,5 hours
+C952,Advanced AI for the Marketing Sector,Technical,AI in Marketing Sector,Advanced,6 hours
+C953,Introduction to AI for the Sales Sector,Technical,AI in Sales Sector,Beginner,4 hours
+C954,AI for the Sales Sector Practitioner,Technical,AI in Sales Sector,Intermediate,5 hours
+C955,Advanced AI for the Sales Sector,Technical,AI in Sales Sector,Advanced,6 hours
+C956,Introduction to AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Beginner,4 hours
+C957,AI for the Customer Service Sector Practitioner,Technical,AI in Customer Service Sector,Intermediate,5 hours
+C958,Advanced AI for the Customer Service Sector,Technical,AI in Customer Service Sector,Advanced,6 hours
+C959,Introduction to AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Beginner,4 hours
+C960,AI for the Supply Chain Sector Practitioner,Technical,AI in Supply Chain Sector,Intermediate,5 hours
+C961,Advanced AI for the Supply Chain Sector,Technical,AI in Supply Chain Sector,Advanced,6 hours
+C962,Introduction to AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Beginner,4 hours
+C963,AI for the Manufacturing Sector Practitioner,Technical,AI in Manufacturing Sector,Intermediate,5 hours
+C964,Advanced AI for the Manufacturing Sector,Technical,AI in Manufacturing Sector,Advanced,6 hours
+C965,Introduction to AI for the Logistics Sector,Technical,AI in Logistics Sector,Beginner,4 hours
+C966,AI for the Logistics Sector Practitioner,Technical,AI in Logistics Sector,Intermediate,5 hours
+C967,Advanced AI for the Logistics Sector,Technical,AI in Logistics Sector,Advanced,6 hours
+C968,Introduction to AI for the Retail Sector,Technical,AI in Retail Sector,Beginner,4 hours
+C969,AI for the Retail Sector Practitioner,Technical,AI in Retail Sector,Intermediate,5 hours
+C970,Advanced AI for the Retail Sector,Technical,AI in Retail Sector,Advanced,6 hours
+C971,Introduction to AI for E-commerce,Technical,AI in E-commerce,Beginner,4 hours
+C972,AI for E-commerce Practitioner,Technical,AI in E-commerce,Intermediate,5 hours
+C973,Advanced AI for E-commerce,Technical,AI in E-commerce,Advanced,6 hours
+C974,Introduction to AI for Education,Technical,AI in Education,Beginner,4 hours
+C975,AI for Education Practitioner,Technical,AI in Education,Intermediate,5 hours
+C976,Advanced AI for Education,Technical,AI in Education,Advanced,6 hours
+C977,Introduction to AI for Government,Technical,AI in Government,Beginner,4 hours
+C978,AI for Government Practitioner,Technical,AI in Government,Intermediate,5 hours
+C979,Advanced AI for Government,Technical,AI in Government,Advanced,6 hours
+C980,Introduction to AI for Nonprofits,Technical,AI in Nonprofits,Beginner,4 hours
+C981,AI for Nonprofits Practitioner,Technical,AI in Nonprofits,Intermediate,5 hours
+C982,Advanced AI for Nonprofits,Technical,AI in Nonprofits,Advanced,6 hours
+C983,Introduction to AI for Startups,Technical,AI in Startups,Beginner,4 hours
+C984,AI for Startups Practitioner,Technical,AI in Startups,Intermediate,5 hours
+C985,Advanced AI for Startups,Technical,AI in Startups,Advanced,6 hours
+C986,Introduction to AI for Small Business,Technical,AI in Small Business,Beginner,4 hours
+C987,AI for Small Business Practitioner,Technical,AI in Small Business,Intermediate,5 hours
+C988,Advanced AI for Small Business,Technical,AI in Small Business,Advanced,6 hours
+C989,Introduction to AI for Entrepreneurs,Technical,AI in Entrepreneurs,Beginner,4 hours
+C990,AI for Entrepreneurs Practitioner,Technical,AI in Entrepreneurs,Intermediate,5 hours
+C991,Advanced AI for Entrepreneurs,Technical,AI in Entrepreneurs,Advanced,6 hours
+C992,Introduction to AI for Executives,Technical,AI in Executives,Beginner,4 hours
+C993,AI for Executives Practitioner,Technical,AI in Executives,Intermediate,5 hours
+C994,Advanced AI for Executives,Technical,AI in Executives,Advanced,6 hours
+C995,Introduction to AI for Managers,Technical,AI in Managers,Beginner,4 hours
+C996,AI for Managers Practitioner,Technical,AI in Managers,Intermediate,5 hours
+C997,Advanced AI for Managers,Technical,AI in Managers,Advanced,6 hours
+C998,Introduction to AI for Leaders,Technical,AI in Leaders,Beginner,4 hours
+C999,AI for Leaders Practitioner,Technical,AI in Leaders,Intermediate,5 hours
+C1000,Advanced AI for Leaders,Technical,AI in Leaders,Advanced,6 hours

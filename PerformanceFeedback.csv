@@ -1,0 +1,1001 @@
+Id,EmployeeId,FeedbackDate,Skill,Rating,Comments
+F001,E001,2025-01-01,Leadership,3,Needs improvement in delegation.
+F002,E002,2025-02-01,Communication,4,Good progress in public speaking.
+F003,E003,2025-03-01,Technical Skills,5,Excellent coding skills.
+F004,E004,2025-04-01,Teamwork,4,Shows great collaboration with peers.
+F005,E005,2025-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F006,E006,2025-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F007,E007,2025-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F008,E008,2025-08-01,Creativity,3,Needs to think more creatively.
+F009,E009,2025-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F010,E010,2025-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F011,E011,2025-11-01,Leadership,3,Needs improvement in delegation.
+F012,E012,2025-12-01,Communication,4,Good progress in public speaking.
+F013,E013,2026-01-01,Technical Skills,5,Excellent coding skills.
+F014,E014,2026-02-01,Teamwork,4,Shows great collaboration with peers.
+F015,E015,2026-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F016,E016,2026-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F017,E017,2026-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F018,E018,2026-06-01,Creativity,3,Needs to think more creatively.
+F019,E019,2026-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F020,E020,2026-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F021,E021,2026-09-01,Leadership,3,Needs improvement in delegation.
+F022,E022,2026-10-01,Communication,4,Good progress in public speaking.
+F023,E023,2026-11-01,Technical Skills,5,Excellent coding skills.
+F024,E024,2026-12-01,Teamwork,4,Shows great collaboration with peers.
+F025,E025,2027-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F026,E026,2027-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F027,E027,2027-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F028,E028,2027-04-01,Creativity,3,Needs to think more creatively.
+F029,E029,2027-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F030,E030,2027-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F031,E031,2027-07-01,Leadership,3,Needs improvement in delegation.
+F032,E032,2027-08-01,Communication,4,Good progress in public speaking.
+F033,E033,2027-09-01,Technical Skills,5,Excellent coding skills.
+F034,E034,2027-10-01,Teamwork,4,Shows great collaboration with peers.
+F035,E035,2027-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F036,E036,2027-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F037,E037,2028-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F038,E038,2028-02-01,Creativity,3,Needs to think more creatively.
+F039,E039,2028-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F040,E040,2028-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F041,E041,2028-05-01,Leadership,3,Needs improvement in delegation.
+F042,E042,2028-06-01,Communication,4,Good progress in public speaking.
+F043,E043,2028-07-01,Technical Skills,5,Excellent coding skills.
+F044,E044,2028-08-01,Teamwork,4,Shows great collaboration with peers.
+F045,E045,2028-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F046,E046,2028-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F047,E047,2028-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F048,E048,2028-12-01,Creativity,3,Needs to think more creatively.
+F049,E049,2029-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F050,E050,2029-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F051,E051,2029-03-01,Leadership,3,Needs improvement in delegation.
+F052,E052,2029-04-01,Communication,4,Good progress in public speaking.
+F053,E053,2029-05-01,Technical Skills,5,Excellent coding skills.
+F054,E054,2029-06-01,Teamwork,4,Shows great collaboration with peers.
+F055,E055,2029-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F056,E056,2029-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F057,E057,2029-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F058,E058,2029-10-01,Creativity,3,Needs to think more creatively.
+F059,E059,2029-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F060,E060,2029-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F061,E061,2030-01-01,Leadership,3,Needs improvement in delegation.
+F062,E062,2030-02-01,Communication,4,Good progress in public speaking.
+F063,E063,2030-03-01,Technical Skills,5,Excellent coding skills.
+F064,E064,2030-04-01,Teamwork,4,Shows great collaboration with peers.
+F065,E065,2030-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F066,E066,2030-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F067,E067,2030-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F068,E068,2030-08-01,Creativity,3,Needs to think more creatively.
+F069,E069,2030-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F070,E070,2030-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F071,E071,2030-11-01,Leadership,3,Needs improvement in delegation.
+F072,E072,2030-12-01,Communication,4,Good progress in public speaking.
+F073,E073,2031-01-01,Technical Skills,5,Excellent coding skills.
+F074,E074,2031-02-01,Teamwork,4,Shows great collaboration with peers.
+F075,E075,2031-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F076,E076,2031-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F077,E077,2031-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F078,E078,2031-06-01,Creativity,3,Needs to think more creatively.
+F079,E079,2031-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F080,E080,2031-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F081,E081,2031-09-01,Leadership,3,Needs improvement in delegation.
+F082,E082,2031-10-01,Communication,4,Good progress in public speaking.
+F083,E083,2031-11-01,Technical Skills,5,Excellent coding skills.
+F084,E084,2031-12-01,Teamwork,4,Shows great collaboration with peers.
+F085,E085,2032-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F086,E086,2032-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F087,E087,2032-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F088,E088,2032-04-01,Creativity,3,Needs to think more creatively.
+F089,E089,2032-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F090,E090,2032-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F091,E091,2032-07-01,Leadership,3,Needs improvement in delegation.
+F092,E092,2032-08-01,Communication,4,Good progress in public speaking.
+F093,E093,2032-09-01,Technical Skills,5,Excellent coding skills.
+F094,E094,2032-10-01,Teamwork,4,Shows great collaboration with peers.
+F095,E095,2032-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F096,E096,2032-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F097,E097,2033-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F098,E098,2033-02-01,Creativity,3,Needs to think more creatively.
+F099,E099,2033-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F100,E100,2033-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F101,E101,2033-05-01,Leadership,3,Needs improvement in delegation.
+F102,E102,2033-06-01,Communication,4,Good progress in public speaking.
+F103,E103,2033-07-01,Technical Skills,5,Excellent coding skills.
+F104,E104,2033-08-01,Teamwork,4,Shows great collaboration with peers.
+F105,E105,2033-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F106,E106,2033-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F107,E107,2033-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F108,E108,2033-12-01,Creativity,3,Needs to think more creatively.
+F109,E109,2034-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F110,E110,2034-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F111,E111,2034-03-01,Leadership,3,Needs improvement in delegation.
+F112,E112,2034-04-01,Communication,4,Good progress in public speaking.
+F113,E113,2034-05-01,Technical Skills,5,Excellent coding skills.
+F114,E114,2034-06-01,Teamwork,4,Shows great collaboration with peers.
+F115,E115,2034-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F116,E116,2034-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F117,E117,2034-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F118,E118,2034-10-01,Creativity,3,Needs to think more creatively.
+F119,E119,2034-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F120,E120,2034-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F121,E121,2035-01-01,Leadership,3,Needs improvement in delegation.
+F122,E122,2035-02-01,Communication,4,Good progress in public speaking.
+F123,E123,2035-03-01,Technical Skills,5,Excellent coding skills.
+F124,E124,2035-04-01,Teamwork,4,Shows great collaboration with peers.
+F125,E125,2035-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F126,E126,2035-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F127,E127,2035-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F128,E128,2035-08-01,Creativity,3,Needs to think more creatively.
+F129,E129,2035-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F130,E130,2035-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F131,E131,2035-11-01,Leadership,3,Needs improvement in delegation.
+F132,E132,2035-12-01,Communication,4,Good progress in public speaking.
+F133,E133,2036-01-01,Technical Skills,5,Excellent coding skills.
+F134,E134,2036-02-01,Teamwork,4,Shows great collaboration with peers.
+F135,E135,2036-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F136,E136,2036-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F137,E137,2036-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F138,E138,2036-06-01,Creativity,3,Needs to think more creatively.
+F139,E139,2036-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F140,E140,2036-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F141,E141,2036-09-01,Leadership,3,Needs improvement in delegation.
+F142,E142,2036-10-01,Communication,4,Good progress in public speaking.
+F143,E143,2036-11-01,Technical Skills,5,Excellent coding skills.
+F144,E144,2036-12-01,Teamwork,4,Shows great collaboration with peers.
+F145,E145,2037-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F146,E146,2037-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F147,E147,2037-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F148,E148,2037-04-01,Creativity,3,Needs to think more creatively.
+F149,E149,2037-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F150,E150,2037-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F151,E151,2037-07-01,Leadership,3,Needs improvement in delegation.
+F152,E152,2037-08-01,Communication,4,Good progress in public speaking.
+F153,E153,2037-09-01,Technical Skills,5,Excellent coding skills.
+F154,E154,2037-10-01,Teamwork,4,Shows great collaboration with peers.
+F155,E155,2037-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F156,E156,2037-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F157,E157,2038-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F158,E158,2038-02-01,Creativity,3,Needs to think more creatively.
+F159,E159,2038-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F160,E160,2038-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F161,E161,2038-05-01,Leadership,3,Needs improvement in delegation.
+F162,E162,2038-06-01,Communication,4,Good progress in public speaking.
+F163,E163,2038-07-01,Technical Skills,5,Excellent coding skills.
+F164,E164,2038-08-01,Teamwork,4,Shows great collaboration with peers.
+F165,E165,2038-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F166,E166,2038-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F167,E167,2038-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F168,E168,2038-12-01,Creativity,3,Needs to think more creatively.
+F169,E169,2039-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F170,E170,2039-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F171,E171,2039-03-01,Leadership,3,Needs improvement in delegation.
+F172,E172,2039-04-01,Communication,4,Good progress in public speaking.
+F173,E173,2039-05-01,Technical Skills,5,Excellent coding skills.
+F174,E174,2039-06-01,Teamwork,4,Shows great collaboration with peers.
+F175,E175,2039-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F176,E176,2039-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F177,E177,2039-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F178,E178,2039-10-01,Creativity,3,Needs to think more creatively.
+F179,E179,2039-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F180,E180,2039-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F181,E181,2040-01-01,Leadership,3,Needs improvement in delegation.
+F182,E182,2040-02-01,Communication,4,Good progress in public speaking.
+F183,E183,2040-03-01,Technical Skills,5,Excellent coding skills.
+F184,E184,2040-04-01,Teamwork,4,Shows great collaboration with peers.
+F185,E185,2040-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F186,E186,2040-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F187,E187,2040-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F188,E188,2040-08-01,Creativity,3,Needs to think more creatively.
+F189,E189,2040-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F190,E190,2040-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F191,E191,2040-11-01,Leadership,3,Needs improvement in delegation.
+F192,E192,2040-12-01,Communication,4,Good progress in public speaking.
+F193,E193,2041-01-01,Technical Skills,5,Excellent coding skills.
+F194,E194,2041-02-01,Teamwork,4,Shows great collaboration with peers.
+F195,E195,2041-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F196,E196,2041-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F197,E197,2041-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F198,E198,2041-06-01,Creativity,3,Needs to think more creatively.
+F199,E199,2041-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F200,E200,2041-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F201,E201,2041-09-01,Leadership,3,Needs improvement in delegation.
+F202,E202,2041-10-01,Communication,4,Good progress in public speaking.
+F203,E203,2041-11-01,Technical Skills,5,Excellent coding skills.
+F204,E204,2041-12-01,Teamwork,4,Shows great collaboration with peers.
+F205,E205,2042-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F206,E206,2042-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F207,E207,2042-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F208,E208,2042-04-01,Creativity,3,Needs to think more creatively.
+F209,E209,2042-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F210,E210,2042-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F211,E211,2042-07-01,Leadership,3,Needs improvement in delegation.
+F212,E212,2042-08-01,Communication,4,Good progress in public speaking.
+F213,E213,2042-09-01,Technical Skills,5,Excellent coding skills.
+F214,E214,2042-10-01,Teamwork,4,Shows great collaboration with peers.
+F215,E215,2042-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F216,E216,2042-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F217,E217,2043-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F218,E218,2043-02-01,Creativity,3,Needs to think more creatively.
+F219,E219,2043-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F220,E220,2043-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F221,E221,2043-05-01,Leadership,3,Needs improvement in delegation.
+F222,E222,2043-06-01,Communication,4,Good progress in public speaking.
+F223,E223,2043-07-01,Technical Skills,5,Excellent coding skills.
+F224,E224,2043-08-01,Teamwork,4,Shows great collaboration with peers.
+F225,E225,2043-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F226,E226,2043-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F227,E227,2043-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F228,E228,2043-12-01,Creativity,3,Needs to think more creatively.
+F229,E229,2044-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F230,E230,2044-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F231,E231,2044-03-01,Leadership,3,Needs improvement in delegation.
+F232,E232,2044-04-01,Communication,4,Good progress in public speaking.
+F233,E233,2044-05-01,Technical Skills,5,Excellent coding skills.
+F234,E234,2044-06-01,Teamwork,4,Shows great collaboration with peers.
+F235,E235,2044-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F236,E236,2044-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F237,E237,2044-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F238,E238,2044-10-01,Creativity,3,Needs to think more creatively.
+F239,E239,2044-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F240,E240,2044-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F241,E241,2045-01-01,Leadership,3,Needs improvement in delegation.
+F242,E242,2045-02-01,Communication,4,Good progress in public speaking.
+F243,E243,2045-03-01,Technical Skills,5,Excellent coding skills.
+F244,E244,2045-04-01,Teamwork,4,Shows great collaboration with peers.
+F245,E245,2045-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F246,E246,2045-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F247,E247,2045-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F248,E248,2045-08-01,Creativity,3,Needs to think more creatively.
+F249,E249,2045-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F250,E250,2045-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F251,E251,2045-11-01,Leadership,3,Needs improvement in delegation.
+F252,E252,2045-12-01,Communication,4,Good progress in public speaking.
+F253,E253,2046-01-01,Technical Skills,5,Excellent coding skills.
+F254,E254,2046-02-01,Teamwork,4,Shows great collaboration with peers.
+F255,E255,2046-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F256,E256,2046-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F257,E257,2046-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F258,E258,2046-06-01,Creativity,3,Needs to think more creatively.
+F259,E259,2046-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F260,E260,2046-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F261,E261,2046-09-01,Leadership,3,Needs improvement in delegation.
+F262,E262,2046-10-01,Communication,4,Good progress in public speaking.
+F263,E263,2046-11-01,Technical Skills,5,Excellent coding skills.
+F264,E264,2046-12-01,Teamwork,4,Shows great collaboration with peers.
+F265,E265,2047-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F266,E266,2047-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F267,E267,2047-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F268,E268,2047-04-01,Creativity,3,Needs to think more creatively.
+F269,E269,2047-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F270,E270,2047-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F271,E271,2047-07-01,Leadership,3,Needs improvement in delegation.
+F272,E272,2047-08-01,Communication,4,Good progress in public speaking.
+F273,E273,2047-09-01,Technical Skills,5,Excellent coding skills.
+F274,E274,2047-10-01,Teamwork,4,Shows great collaboration with peers.
+F275,E275,2047-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F276,E276,2047-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F277,E277,2048-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F278,E278,2048-02-01,Creativity,3,Needs to think more creatively.
+F279,E279,2048-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F280,E280,2048-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F281,E281,2048-05-01,Leadership,3,Needs improvement in delegation.
+F282,E282,2048-06-01,Communication,4,Good progress in public speaking.
+F283,E283,2048-07-01,Technical Skills,5,Excellent coding skills.
+F284,E284,2048-08-01,Teamwork,4,Shows great collaboration with peers.
+F285,E285,2048-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F286,E286,2048-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F287,E287,2048-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F288,E288,2048-12-01,Creativity,3,Needs to think more creatively.
+F289,E289,2049-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F290,E290,2049-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F291,E291,2049-03-01,Leadership,3,Needs improvement in delegation.
+F292,E292,2049-04-01,Communication,4,Good progress in public speaking.
+F293,E293,2049-05-01,Technical Skills,5,Excellent coding skills.
+F294,E294,2049-06-01,Teamwork,4,Shows great collaboration with peers.
+F295,E295,2049-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F296,E296,2049-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F297,E297,2049-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F298,E298,2049-10-01,Creativity,3,Needs to think more creatively.
+F299,E299,2049-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F300,E300,2049-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F301,E301,2050-01-01,Leadership,3,Needs improvement in delegation.
+F302,E302,2050-02-01,Communication,4,Good progress in public speaking.
+F303,E303,2050-03-01,Technical Skills,5,Excellent coding skills.
+F304,E304,2050-04-01,Teamwork,4,Shows great collaboration with peers.
+F305,E305,2050-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F306,E306,2050-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F307,E307,2050-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F308,E308,2050-08-01,Creativity,3,Needs to think more creatively.
+F309,E309,2050-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F310,E310,2050-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F311,E311,2050-11-01,Leadership,3,Needs improvement in delegation.
+F312,E312,2050-12-01,Communication,4,Good progress in public speaking.
+F313,E313,2051-01-01,Technical Skills,5,Excellent coding skills.
+F314,E314,2051-02-01,Teamwork,4,Shows great collaboration with peers.
+F315,E315,2051-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F316,E316,2051-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F317,E317,2051-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F318,E318,2051-06-01,Creativity,3,Needs to think more creatively.
+F319,E319,2051-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F320,E320,2051-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F321,E321,2051-09-01,Leadership,3,Needs improvement in delegation.
+F322,E322,2051-10-01,Communication,4,Good progress in public speaking.
+F323,E323,2051-11-01,Technical Skills,5,Excellent coding skills.
+F324,E324,2051-12-01,Teamwork,4,Shows great collaboration with peers.
+F325,E325,2052-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F326,E326,2052-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F327,E327,2052-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F328,E328,2052-04-01,Creativity,3,Needs to think more creatively.
+F329,E329,2052-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F330,E330,2052-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F331,E331,2052-07-01,Leadership,3,Needs improvement in delegation.
+F332,E332,2052-08-01,Communication,4,Good progress in public speaking.
+F333,E333,2052-09-01,Technical Skills,5,Excellent coding skills.
+F334,E334,2052-10-01,Teamwork,4,Shows great collaboration with peers.
+F335,E335,2052-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F336,E336,2052-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F337,E337,2053-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F338,E338,2053-02-01,Creativity,3,Needs to think more creatively.
+F339,E339,2053-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F340,E340,2053-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F341,E341,2053-05-01,Leadership,3,Needs improvement in delegation.
+F342,E342,2053-06-01,Communication,4,Good progress in public speaking.
+F343,E343,2053-07-01,Technical Skills,5,Excellent coding skills.
+F344,E344,2053-08-01,Teamwork,4,Shows great collaboration with peers.
+F345,E345,2053-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F346,E346,2053-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F347,E347,2053-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F348,E348,2053-12-01,Creativity,3,Needs to think more creatively.
+F349,E349,2054-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F350,E350,2054-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F351,E351,2054-03-01,Leadership,3,Needs improvement in delegation.
+F352,E352,2054-04-01,Communication,4,Good progress in public speaking.
+F353,E353,2054-05-01,Technical Skills,5,Excellent coding skills.
+F354,E354,2054-06-01,Teamwork,4,Shows great collaboration with peers.
+F355,E355,2054-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F356,E356,2054-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F357,E357,2054-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F358,E358,2054-10-01,Creativity,3,Needs to think more creatively.
+F359,E359,2054-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F360,E360,2054-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F361,E361,2055-01-01,Leadership,3,Needs improvement in delegation.
+F362,E362,2055-02-01,Communication,4,Good progress in public speaking.
+F363,E363,2055-03-01,Technical Skills,5,Excellent coding skills.
+F364,E364,2055-04-01,Teamwork,4,Shows great collaboration with peers.
+F365,E365,2055-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F366,E366,2055-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F367,E367,2055-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F368,E368,2055-08-01,Creativity,3,Needs to think more creatively.
+F369,E369,2055-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F370,E370,2055-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F371,E371,2055-11-01,Leadership,3,Needs improvement in delegation.
+F372,E372,2055-12-01,Communication,4,Good progress in public speaking.
+F373,E373,2056-01-01,Technical Skills,5,Excellent coding skills.
+F374,E374,2056-02-01,Teamwork,4,Shows great collaboration with peers.
+F375,E375,2056-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F376,E376,2056-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F377,E377,2056-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F378,E378,2056-06-01,Creativity,3,Needs to think more creatively.
+F379,E379,2056-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F380,E380,2056-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F381,E381,2056-09-01,Leadership,3,Needs improvement in delegation.
+F382,E382,2056-10-01,Communication,4,Good progress in public speaking.
+F383,E383,2056-11-01,Technical Skills,5,Excellent coding skills.
+F384,E384,2056-12-01,Teamwork,4,Shows great collaboration with peers.
+F385,E385,2057-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F386,E386,2057-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F387,E387,2057-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F388,E388,2057-04-01,Creativity,3,Needs to think more creatively.
+F389,E389,2057-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F390,E390,2057-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F391,E391,2057-07-01,Leadership,3,Needs improvement in delegation.
+F392,E392,2057-08-01,Communication,4,Good progress in public speaking.
+F393,E393,2057-09-01,Technical Skills,5,Excellent coding skills.
+F394,E394,2057-10-01,Teamwork,4,Shows great collaboration with peers.
+F395,E395,2057-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F396,E396,2057-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F397,E397,2058-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F398,E398,2058-02-01,Creativity,3,Needs to think more creatively.
+F399,E399,2058-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F400,E400,2058-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F401,E401,2058-05-01,Leadership,3,Needs improvement in delegation.
+F402,E402,2058-06-01,Communication,4,Good progress in public speaking.
+F403,E403,2058-07-01,Technical Skills,5,Excellent coding skills.
+F404,E404,2058-08-01,Teamwork,4,Shows great collaboration with peers.
+F405,E405,2058-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F406,E406,2058-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F407,E407,2058-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F408,E408,2058-12-01,Creativity,3,Needs to think more creatively.
+F409,E409,2059-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F410,E410,2059-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F411,E411,2059-03-01,Leadership,3,Needs improvement in delegation.
+F412,E412,2059-04-01,Communication,4,Good progress in public speaking.
+F413,E413,2059-05-01,Technical Skills,5,Excellent coding skills.
+F414,E414,2059-06-01,Teamwork,4,Shows great collaboration with peers.
+F415,E415,2059-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F416,E416,2059-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F417,E417,2059-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F418,E418,2059-10-01,Creativity,3,Needs to think more creatively.
+F419,E419,2059-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F420,E420,2059-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F421,E421,2060-01-01,Leadership,3,Needs improvement in delegation.
+F422,E422,2060-02-01,Communication,4,Good progress in public speaking.
+F423,E423,2060-03-01,Technical Skills,5,Excellent coding skills.
+F424,E424,2060-04-01,Teamwork,4,Shows great collaboration with peers.
+F425,E425,2060-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F426,E426,2060-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F427,E427,2060-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F428,E428,2060-08-01,Creativity,3,Needs to think more creatively.
+F429,E429,2060-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F430,E430,2060-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F431,E431,2060-11-01,Leadership,3,Needs improvement in delegation.
+F432,E432,2060-12-01,Communication,4,Good progress in public speaking.
+F433,E433,2061-01-01,Technical Skills,5,Excellent coding skills.
+F434,E434,2061-02-01,Teamwork,4,Shows great collaboration with peers.
+F435,E435,2061-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F436,E436,2061-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F437,E437,2061-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F438,E438,2061-06-01,Creativity,3,Needs to think more creatively.
+F439,E439,2061-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F440,E440,2061-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F441,E441,2061-09-01,Leadership,3,Needs improvement in delegation.
+F442,E442,2061-10-01,Communication,4,Good progress in public speaking.
+F443,E443,2061-11-01,Technical Skills,5,Excellent coding skills.
+F444,E444,2061-12-01,Teamwork,4,Shows great collaboration with peers.
+F445,E445,2062-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F446,E446,2062-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F447,E447,2062-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F448,E448,2062-04-01,Creativity,3,Needs to think more creatively.
+F449,E449,2062-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F450,E450,2062-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F451,E451,2062-07-01,Leadership,3,Needs improvement in delegation.
+F452,E452,2062-08-01,Communication,4,Good progress in public speaking.
+F453,E453,2062-09-01,Technical Skills,5,Excellent coding skills.
+F454,E454,2062-10-01,Teamwork,4,Shows great collaboration with peers.
+F455,E455,2062-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F456,E456,2062-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F457,E457,2063-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F458,E458,2063-02-01,Creativity,3,Needs to think more creatively.
+F459,E459,2063-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F460,E460,2063-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F461,E461,2063-05-01,Leadership,3,Needs improvement in delegation.
+F462,E462,2063-06-01,Communication,4,Good progress in public speaking.
+F463,E463,2063-07-01,Technical Skills,5,Excellent coding skills.
+F464,E464,2063-08-01,Teamwork,4,Shows great collaboration with peers.
+F465,E465,2063-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F466,E466,2063-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F467,E467,2063-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F468,E468,2063-12-01,Creativity,3,Needs to think more creatively.
+F469,E469,2064-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F470,E470,2064-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F471,E471,2064-03-01,Leadership,3,Needs improvement in delegation.
+F472,E472,2064-04-01,Communication,4,Good progress in public speaking.
+F473,E473,2064-05-01,Technical Skills,5,Excellent coding skills.
+F474,E474,2064-06-01,Teamwork,4,Shows great collaboration with peers.
+F475,E475,2064-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F476,E476,2064-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F477,E477,2064-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F478,E478,2064-10-01,Creativity,3,Needs to think more creatively.
+F479,E479,2064-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F480,E480,2064-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F481,E481,2065-01-01,Leadership,3,Needs improvement in delegation.
+F482,E482,2065-02-01,Communication,4,Good progress in public speaking.
+F483,E483,2065-03-01,Technical Skills,5,Excellent coding skills.
+F484,E484,2065-04-01,Teamwork,4,Shows great collaboration with peers.
+F485,E485,2065-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F486,E486,2065-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F487,E487,2065-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F488,E488,2065-08-01,Creativity,3,Needs to think more creatively.
+F489,E489,2065-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F490,E490,2065-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F491,E491,2065-11-01,Leadership,3,Needs improvement in delegation.
+F492,E492,2065-12-01,Communication,4,Good progress in public speaking.
+F493,E493,2066-01-01,Technical Skills,5,Excellent coding skills.
+F494,E494,2066-02-01,Teamwork,4,Shows great collaboration with peers.
+F495,E495,2066-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F496,E496,2066-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F497,E497,2066-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F498,E498,2066-06-01,Creativity,3,Needs to think more creatively.
+F499,E499,2066-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F500,E500,2066-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F501,E501,2066-09-01,Leadership,3,Needs improvement in delegation.
+F502,E502,2066-10-01,Communication,4,Good progress in public speaking.
+F503,E503,2066-11-01,Technical Skills,5,Excellent coding skills.
+F504,E504,2066-12-01,Teamwork,4,Shows great collaboration with peers.
+F505,E505,2067-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F506,E506,2067-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F507,E507,2067-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F508,E508,2067-04-01,Creativity,3,Needs to think more creatively.
+F509,E509,2067-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F510,E510,2067-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F511,E511,2067-07-01,Leadership,3,Needs improvement in delegation.
+F512,E512,2067-08-01,Communication,4,Good progress in public speaking.
+F513,E513,2067-09-01,Technical Skills,5,Excellent coding skills.
+F514,E514,2067-10-01,Teamwork,4,Shows great collaboration with peers.
+F515,E515,2067-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F516,E516,2067-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F517,E517,2068-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F518,E518,2068-02-01,Creativity,3,Needs to think more creatively.
+F519,E519,2068-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F520,E520,2068-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F521,E521,2068-05-01,Leadership,3,Needs improvement in delegation.
+F522,E522,2068-06-01,Communication,4,Good progress in public speaking.
+F523,E523,2068-07-01,Technical Skills,5,Excellent coding skills.
+F524,E524,2068-08-01,Teamwork,4,Shows great collaboration with peers.
+F525,E525,2068-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F526,E526,2068-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F527,E527,2068-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F528,E528,2068-12-01,Creativity,3,Needs to think more creatively.
+F529,E529,2069-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F530,E530,2069-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F531,E531,2069-03-01,Leadership,3,Needs improvement in delegation.
+F532,E532,2069-04-01,Communication,4,Good progress in public speaking.
+F533,E533,2069-05-01,Technical Skills,5,Excellent coding skills.
+F534,E534,2069-06-01,Teamwork,4,Shows great collaboration with peers.
+F535,E535,2069-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F536,E536,2069-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F537,E537,2069-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F538,E538,2069-10-01,Creativity,3,Needs to think more creatively.
+F539,E539,2069-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F540,E540,2069-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F541,E541,2070-01-01,Leadership,3,Needs improvement in delegation.
+F542,E542,2070-02-01,Communication,4,Good progress in public speaking.
+F543,E543,2070-03-01,Technical Skills,5,Excellent coding skills.
+F544,E544,2070-04-01,Teamwork,4,Shows great collaboration with peers.
+F545,E545,2070-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F546,E546,2070-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F547,E547,2070-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F548,E548,2070-08-01,Creativity,3,Needs to think more creatively.
+F549,E549,2070-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F550,E550,2070-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F551,E551,2070-11-01,Leadership,3,Needs improvement in delegation.
+F552,E552,2070-12-01,Communication,4,Good progress in public speaking.
+F553,E553,2071-01-01,Technical Skills,5,Excellent coding skills.
+F554,E554,2071-02-01,Teamwork,4,Shows great collaboration with peers.
+F555,E555,2071-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F556,E556,2071-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F557,E557,2071-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F558,E558,2071-06-01,Creativity,3,Needs to think more creatively.
+F559,E559,2071-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F560,E560,2071-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F561,E561,2071-09-01,Leadership,3,Needs improvement in delegation.
+F562,E562,2071-10-01,Communication,4,Good progress in public speaking.
+F563,E563,2071-11-01,Technical Skills,5,Excellent coding skills.
+F564,E564,2071-12-01,Teamwork,4,Shows great collaboration with peers.
+F565,E565,2072-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F566,E566,2072-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F567,E567,2072-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F568,E568,2072-04-01,Creativity,3,Needs to think more creatively.
+F569,E569,2072-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F570,E570,2072-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F571,E571,2072-07-01,Leadership,3,Needs improvement in delegation.
+F572,E572,2072-08-01,Communication,4,Good progress in public speaking.
+F573,E573,2072-09-01,Technical Skills,5,Excellent coding skills.
+F574,E574,2072-10-01,Teamwork,4,Shows great collaboration with peers.
+F575,E575,2072-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F576,E576,2072-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F577,E577,2073-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F578,E578,2073-02-01,Creativity,3,Needs to think more creatively.
+F579,E579,2073-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F580,E580,2073-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F581,E581,2073-05-01,Leadership,3,Needs improvement in delegation.
+F582,E582,2073-06-01,Communication,4,Good progress in public speaking.
+F583,E583,2073-07-01,Technical Skills,5,Excellent coding skills.
+F584,E584,2073-08-01,Teamwork,4,Shows great collaboration with peers.
+F585,E585,2073-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F586,E586,2073-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F587,E587,2073-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F588,E588,2073-12-01,Creativity,3,Needs to think more creatively.
+F589,E589,2074-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F590,E590,2074-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F591,E591,2074-03-01,Leadership,3,Needs improvement in delegation.
+F592,E592,2074-04-01,Communication,4,Good progress in public speaking.
+F593,E593,2074-05-01,Technical Skills,5,Excellent coding skills.
+F594,E594,2074-06-01,Teamwork,4,Shows great collaboration with peers.
+F595,E595,2074-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F596,E596,2074-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F597,E597,2074-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F598,E598,2074-10-01,Creativity,3,Needs to think more creatively.
+F599,E599,2074-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F600,E600,2074-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F601,E601,2075-01-01,Leadership,3,Needs improvement in delegation.
+F602,E602,2075-02-01,Communication,4,Good progress in public speaking.
+F603,E603,2075-03-01,Technical Skills,5,Excellent coding skills.
+F604,E604,2075-04-01,Teamwork,4,Shows great collaboration with peers.
+F605,E605,2075-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F606,E606,2075-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F607,E607,2075-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F608,E608,2075-08-01,Creativity,3,Needs to think more creatively.
+F609,E609,2075-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F610,E610,2075-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F611,E611,2075-11-01,Leadership,3,Needs improvement in delegation.
+F612,E612,2075-12-01,Communication,4,Good progress in public speaking.
+F613,E613,2076-01-01,Technical Skills,5,Excellent coding skills.
+F614,E614,2076-02-01,Teamwork,4,Shows great collaboration with peers.
+F615,E615,2076-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F616,E616,2076-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F617,E617,2076-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F618,E618,2076-06-01,Creativity,3,Needs to think more creatively.
+F619,E619,2076-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F620,E620,2076-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F621,E621,2076-09-01,Leadership,3,Needs improvement in delegation.
+F622,E622,2076-10-01,Communication,4,Good progress in public speaking.
+F623,E623,2076-11-01,Technical Skills,5,Excellent coding skills.
+F624,E624,2076-12-01,Teamwork,4,Shows great collaboration with peers.
+F625,E625,2077-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F626,E626,2077-02-01,Time Management,5,Manages time effectively, meets deadlines.
+F627,E627,2077-03-01,Adaptability,4,Adapts well to new situations and challenges.
+F628,E628,2077-04-01,Creativity,3,Needs to think more creatively.
+F629,E629,2077-05-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F630,E630,2077-06-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F631,E631,2077-07-01,Leadership,3,Needs improvement in delegation.
+F632,E632,2077-08-01,Communication,4,Good progress in public speaking.
+F633,E633,2077-09-01,Technical Skills,5,Excellent coding skills.
+F634,E634,2077-10-01,Teamwork,4,Shows great collaboration with peers.
+F635,E635,2077-11-01,Problem Solving,3,Struggles with complex problem-solving.
+F636,E636,2077-12-01,Time Management,5,Manages time effectively, meets deadlines.
+F637,E637,2078-01-01,Adaptability,4,Adapts well to new situations and challenges.
+F638,E638,2078-02-01,Creativity,3,Needs to think more creatively.
+F639,E639,2078-03-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F640,E640,2078-04-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F641,E641,2078-05-01,Leadership,3,Needs improvement in delegation.
+F642,E642,2078-06-01,Communication,4,Good progress in public speaking.
+F643,E643,2078-07-01,Technical Skills,5,Excellent coding skills.
+F644,E644,2078-08-01,Teamwork,4,Shows great collaboration with peers.
+F645,E645,2078-09-01,Problem Solving,3,Struggles with complex problem-solving.
+F646,E646,2078-10-01,Time Management,5,Manages time effectively, meets deadlines.
+F647,E647,2078-11-01,Adaptability,4,Adapts well to new situations and challenges.
+F648,E648,2078-12-01,Creativity,3,Needs to think more creatively.
+F649,E649,2079-01-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F650,E650,2079-02-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F651,E651,2079-03-01,Leadership,3,Needs improvement in delegation.
+F652,E652,2079-04-01,Communication,4,Good progress in public speaking.
+F653,E653,2079-05-01,Technical Skills,5,Excellent coding skills.
+F654,E654,2079-06-01,Teamwork,4,Shows great collaboration with peers.
+F655,E655,2079-07-01,Problem Solving,3,Struggles with complex problem-solving.
+F656,E656,2079-08-01,Time Management,5,Manages time effectively, meets deadlines.
+F657,E657,2079-09-01,Adaptability,4,Adapts well to new situations and challenges.
+F658,E658,2079-10-01,Creativity,3,Needs to think more creatively.
+F659,E659,2079-11-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F660,E660,2079-12-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F661,E661,2080-01-01,Leadership,3,Needs improvement in delegation.
+F662,E662,2080-02-01,Communication,4,Good progress in public speaking.
+F663,E663,2080-03-01,Technical Skills,5,Excellent coding skills.
+F664,E664,2080-04-01,Teamwork,4,Shows great collaboration with peers.
+F665,E665,2080-05-01,Problem Solving,3,Struggles with complex problem-solving.
+F666,E666,2080-06-01,Time Management,5,Manages time effectively, meets deadlines.
+F667,E667,2080-07-01,Adaptability,4,Adapts well to new situations and challenges.
+F668,E668,2080-08-01,Creativity,3,Needs to think more creatively.
+F669,E669,2080-09-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F670,E670,2080-10-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F671,E671,2080-11-01,Leadership,3,Needs improvement in delegation.
+F672,E672,2080-12-01,Communication,4,Good progress in public speaking.
+F673,E673,2081-01-01,Technical Skills,5,Excellent coding skills.
+F674,E674,2081-02-01,Teamwork,4,Shows great collaboration with peers.
+F675,E675,2081-03-01,Problem Solving,3,Struggles with complex problem-solving.
+F676,E676,2081-04-01,Time Management,5,Manages time effectively, meets deadlines.
+F677,E677,2081-05-01,Adaptability,4,Adapts well to new situations and challenges.
+F678,E678,2081-06-01,Creativity,3,Needs to think more creatively.
+F679,E679,2081-07-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F680,E680,2081-08-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F681,E681,2081-09-01,Leadership,3,Needs improvement in delegation.
+F682,E682,2081-10-01,Communication,4,Good progress in public speaking.
+F683,E683,2081-11-01,Technical Skills,5,Excellent coding skills.
+F684,E684,2081-12-01,Teamwork,4,Shows great collaboration with peers.
+F685,E685,2082-01-01,Problem Solving,3,Struggles with complex problem-solving.
+F686,E686,Time Management,5,Manages time effectively, meets deadlines.
+F687,E687,2082-02-01,Adaptability,4,Adapts well to new situations and challenges.
+F688,E688,2082-03-01,Creativity,3,Needs to think more creatively.
+F689,E689,2082-04-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F690,E690,2082-05-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F691,E691,2082-06-01,Leadership,3,Needs improvement in delegation.
+F692,E692,2082-07-01,Communication,4,Good progress in public speaking.
+F693,E693,2082-08-01,Technical Skills,5,Excellent coding skills.
+F694,E694,2082-09-01,Teamwork,4,Shows great collaboration with peers.
+F695,E695,2082-10-01,Problem Solving,3,Struggles with complex problem-solving.
+F696,E696,2082-11-01,Time Management,5,Manages time effectively, meets deadlines.
+F697,E697,2082-12-01,Adaptability,4,Adapts well to new situations and challenges.
+F698,E698,2083-01-01,Creativity,3,Needs to think more creatively.
+F699,E699,2083-02-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F700,E700,2083-03-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F701,E701,2083-04-01,Leadership,3,Needs improvement in delegation.
+F702,E702,2083-05-01,Communication,4,Good progress in public speaking.
+F703,E703,2083-06-01,Technical Skills,5,Excellent coding skills.
+F704,E704,2083-07-01,Teamwork,4,Shows great collaboration with peers.
+F705,E705,2083-08-01,Problem Solving,3,Struggles with complex problem-solving.
+F706,E706,2083-09-01,Time Management,5,Manages time effectively, meets deadlines.
+F707,E707,2083-10-01,Adaptability,4,Adapts well to new situations and challenges.
+F708,E708,2083-11-01,Creativity,3,Needs to think more creatively.
+F709,E709,2083-12-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F710,E710,2084-01-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F711,E711,2084-02-01,Leadership,3,Needs improvement in delegation.
+F712,E712,2084-03-01,Communication,4,Good progress in public speaking.
+F713,E713,2084-04-01,Technical Skills,5,Excellent coding skills.
+F714,E714,2084-05-01,Teamwork,4,Shows great collaboration with peers.
+F715,E715,2084-06-01,Problem Solving,3,Struggles with complex problem-solving.
+F716,E716,2084-07-01,Time Management,5,Manages time effectively, meets deadlines.
+F717,E717,2084-08-01,Adaptability,4,Adapts well to new situations and challenges.
+F718,E718,2084-09-01,Creativity,3,Needs to think more creatively.
+F719,E719,2084-10-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F720,E720,2084-11-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F721,E721,2084-12-01,Leadership,3,Needs improvement in delegation.
+F722,E722,2085-01-01,Communication,4,Good progress in public speaking.
+F723,E723,2085-02-01,Technical Skills,5,Excellent coding skills.
+F724,E724,2085-03-01,Teamwork,4,Shows great collaboration with peers.
+F725,E725,2085-04-01,Problem Solving,3,Struggles with complex problem-solving.
+F726,E726,2085-05-01,Time Management,5,Manages time effectively, meets deadlines.
+F727,E727,2085-06-01,Adaptability,4,Adapts well to new situations and challenges.
+F728,E728,2085-07-01,Creativity,3,Needs to think more creatively.
+F729,E729,2085-08-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F730,E730,2085-09-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F731,E731,2085-10-01,Leadership,3,Needs improvement in delegation.
+F732,E732,2085-11-01,Communication,4,Good progress in public speaking.
+F733,E733,2085-12-01,Technical Skills,5,Excellent coding skills.
+F734,E734,2086-01-01,Teamwork,4,Shows great collaboration with peers.
+F735,E735,2086-02-01,Problem Solving,3,Struggles with complex problem-solving.
+F736,E736,2086-03-01,Time Management,5,Manages time effectively, meets deadlines.
+F737,E737,2086-04-01,Adaptability,4,Adapts well to new situations and challenges.
+F738,E738,2086-05-01,Creativity,3,Needs to think more creatively.
+F739,E739,2086-06-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F740,E740,2086-07-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F741,E741,2086-08-01,Leadership,3,Needs improvement in delegation.
+F742,E742,2086-09-01,Communication,4,Good progress in public speaking.
+F743,E743,2086-10-01,Technical Skills,5,Excellent coding skills.
+F744,E744,2086-11-01,Teamwork,4,Shows great collaboration with peers.
+F745,E745,2086-12-01,Problem Solving,3,Struggles with complex problem-solving.
+F746,E746,2087-01-01,Time Management,5,Manages time effectively, meets deadlines.
+F747,E747,2087-02-01,Adaptability,4,Adapts well to new situations and challenges.
+F748,E748,2087-03-01,Creativity,3,Needs to think more creatively.
+F749,E749,2087-04-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F750,E750,2087-05-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F751,E751,2087-06-01,Leadership,3,Needs improvement in delegation.
+F752,E752,2087-07-01,Communication,4,Good progress in public speaking.
+F753,E753,2087-08-01,Technical Skills,5,Excellent coding skills.
+F754,E754,2087-09-01,Teamwork,4,Shows great collaboration with peers.
+F755,E755,2087-10-01,Problem Solving,3,Struggles with complex problem-solving.
+F756,E756,2087-11-01,Time Management,5,Manages time effectively, meets deadlines.
+F757,E757,2087-12-01,Adaptability,4,Adapts well to new situations and challenges.
+F758,E758,2088-01-01,Creativity,3,Needs to think more creatively.
+F759,E759,2088-02-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F760,E760,2088-03-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F761,E761,2088-04-01,Leadership,3,Needs improvement in delegation.
+F762,E762,2088-05-01,Communication,4,Good progress in public speaking.
+F763,E763,2088-06-01,Technical Skills,5,Excellent coding skills.
+F764,E764,2088-07-01,Teamwork,4,Shows great collaboration with peers.
+F765,E765,2088-08-01,Problem Solving,3,Struggles with complex problem-solving.
+F766,E766,2088-09-01,Time Management,5,Manages time effectively, meets deadlines.
+F767,E767,2088-10-01,Adaptability,4,Adapts well to new situations and challenges.
+F768,E768,2088-11-01,Creativity,3,Needs to think more creatively.
+F769,E769,2088-12-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F770,E770,2089-01-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F771,E771,2089-02-01,Leadership,3,Needs improvement in delegation.
+F772,E772,2089-03-01,Communication,4,Good progress in public speaking.
+F773,E773,2089-04-01,Technical Skills,5,Excellent coding skills.
+F774,E774,2089-05-01,Teamwork,4,Shows great collaboration with peers.
+F775,E775,2089-06-01,Problem Solving,3,Struggles with complex problem-solving.
+F776,E776,2089-07-01,Time Management,5,Manages time effectively, meets deadlines.
+F777,E777,2089-08-01,Adaptability,4,Adapts well to new situations and challenges.
+F778,E778,2089-09-01,Creativity,3,Needs to think more creatively.
+F779,E779,2089-10-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F780,E780,2089-11-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F781,E781,2089-12-01,Leadership,3,Needs improvement in delegation.
+F782,E782,2090-01-01,Communication,4,Good progress in public speaking.
+F783,E783,2090-02-01,Technical Skills,5,Excellent coding skills.
+F784,E784,2090-03-01,Teamwork,4,Shows great collaboration with peers.
+F785,E785,2090-04-01,Problem Solving,3,Struggles with complex problem-solving.
+F786,E786,2090-05-01,Time Management,5,Manages time effectively, meets deadlines.
+F787,E787,2090-06-01,Adaptability,4,Adapts well to new situations and challenges.
+F788,E788,2090-07-01,Creativity,3,Needs to think more creatively.
+F789,E789,2090-08-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F790,E790,2090-09-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F791,E791,2090-10-01,Leadership,3,Needs improvement in delegation.
+F792,E792,2090-11-01,Communication,4,Good progress in public speaking.
+F793,E793,2090-12-01,Technical Skills,5,Excellent coding skills.
+F794,E794,2091-01-01,Teamwork,4,Shows great collaboration with peers.
+F795,E795,2091-02-01,Problem Solving,3,Struggles with complex problem-solving.
+F796,E796,2091-03-01,Time Management,5,Manages time effectively, meets deadlines.
+F797,E797,2091-04-01,Adaptability,4,Adapts well to new situations and challenges.
+F798,E798,2091-05-01,Creativity,3,Needs to think more creatively.
+F799,E799,2091-06-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F800,E800,2091-07-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F801,E801,2091-08-01,Leadership,3,Needs improvement in delegation.
+F802,E802,2091-09-01,Communication,4,Good progress in public speaking.
+F803,E803,2091-10-01,Technical Skills,5,Excellent coding skills.
+F804,E804,2091-11-01,Teamwork,4,Shows great collaboration with peers.
+F805,E805,2091-12-01,Problem Solving,3,Struggles with complex problem-solving.
+F806,E806,2092-01-01,Time Management,5,Manages time effectively, meets deadlines.
+F807,E807,2092-02-01,Adaptability,4,Adapts well to new situations and challenges.
+F808,E808,2092-03-01,Creativity,3,Needs to think more creatively.
+F809,E809,2092-04-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F810,E810,2092-05-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F811,E811,2092-06-01,Leadership,3,Needs improvement in delegation.
+F812,E812,2092-07-01,Communication,4,Good progress in public speaking.
+F813,E813,2092-08-01,Technical Skills,5,Excellent coding skills.
+F814,E814,2092-09-01,Teamwork,4,Shows great collaboration with peers.
+F815,E815,2092-10-01,Problem Solving,3,Struggles with complex problem-solving.
+F816,E816,2092-11-01,Time Management,5,Manages time effectively, meets deadlines.
+F817,E817,2092-12-01,Adaptability,4,Adapts well to new situations and challenges.
+F818,E818,2093-01-01,Creativity,3,Needs to think more creatively.
+F819,E819,2093-02-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F820,E820,2093-03-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F821,E821,2093-04-01,Leadership,3,Needs improvement in delegation.
+F822,E822,2093-05-01,Communication,4,Good progress in public speaking.
+F823,E823,2093-06-01,Technical Skills,5,Excellent coding skills.
+F824,E824,2093-07-01,Teamwork,4,Shows great collaboration with peers.
+F825,E825,2093-08-01,Problem Solving,3,Struggles with complex problem-solving.
+F826,E826,2093-09-01,Time Management,5,Manages time effectively, meets deadlines.
+F827,E827,2093-10-01,Adaptability,4,Adapts well to new situations and challenges.
+F828,E828,2093-11-01,Creativity,3,Needs to think more creatively.
+F829,E829,2093-12-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F830,E830,2094-01-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F831,E831,2094-02-01,Leadership,3,Needs improvement in delegation.
+F832,E832,2094-03-01,Communication,4,Good progress in public speaking.
+F833,E833,2094-04-01,Technical Skills,5,Excellent coding skills.
+F834,E834,2094-05-01,Teamwork,4,Shows great collaboration with peers.
+F835,E835,2094-06-01,Problem Solving,3,Struggles with complex problem-solving.
+F836,E836,2094-07-01,Time Management,5,Manages time effectively, meets deadlines.
+F837,E837,2094-08-01,Adaptability,4,Adapts well to new situations and challenges.
+F838,E838,2094-09-01,Creativity,3,Needs to think more creatively.
+F839,E839,2094-10-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F840,E840,2094-11-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F841,E841,2094-12-01,Leadership,3,Needs improvement in delegation.
+F842,E842,2095-01-01,Communication,4,Good progress in public speaking.
+F843,E843,2095-02-01,Technical Skills,5,Excellent coding skills.
+F844,E844,2095-03-01,Teamwork,4,Shows great collaboration with peers.
+F845,E845,2095-04-01,Problem Solving,3,Struggles with complex problem-solving.
+F846,E846,2095-05-01,Time Management,5,Manages time effectively, meets deadlines.
+F847,E847,2095-06-01,Adaptability,4,Adapts well to new situations and challenges.
+F848,E848,2095-07-01,Creativity,3,Needs to think more creatively.
+F849,E849,2095-08-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F850,E850,2095-09-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F851,E851,2095-10-01,Leadership,3,Needs improvement in delegation.
+F852,E852,2095-11-01,Communication,4,Good progress in public speaking.
+F853,E853,2095-12-01,Technical Skills,5,Excellent coding skills.
+F854,E854,2096-01-01,Teamwork,4,Shows great collaboration with peers.
+F855,E855,2096-02-01,Problem Solving,3,Struggles with complex problem-solving.
+F856,E856,2096-03-01,Time Management,5,Manages time effectively, meets deadlines.
+F857,E857,2096-04-01,Adaptability,4,Adapts well to new situations and challenges.
+F858,E858,2096-05-01,Creativity,3,Needs to think more creatively.
+F859,E859,2096-06-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F860,E860,2096-07-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F861,E861,2096-08-01,Leadership,3,Needs improvement in delegation.
+F862,E862,2096-09-01,Communication,4,Good progress in public speaking.
+F863,E863,2096-10-01,Technical Skills,5,Excellent coding skills.
+F864,E864,2096-11-01,Teamwork,4,Shows great collaboration with peers.
+F865,E865,2096-12-01,Problem Solving,3,Struggles with complex problem-solving.
+F866,E866,2097-01-01,Time Management,5,Manages time effectively, meets deadlines.
+F867,E867,2097-02-01,Adaptability,4,Adapts well to new situations and challenges.
+F868,E868,2097-03-01,Creativity,3,Needs to think more creatively.
+F869,E869,2097-04-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F870,E870,2097-05-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F871,E871,2097-06-01,Leadership,3,Needs improvement in delegation.
+F872,E872,2097-07-01,Communication,4,Good progress in public speaking.
+F873,E873,2097-08-01,Technical Skills,5,Excellent coding skills.
+F874,E874,2097-09-01,Teamwork,4,Shows great collaboration with peers.
+F875,E875,2097-10-01,Problem Solving,3,Struggles with complex problem-solving.
+F876,E876,2097-11-01,Time Management,5,Manages time effectively, meets deadlines.
+F877,E877,2097-12-01,Adaptability,4,Adapts well to new situations and challenges.
+F878,E878,2098-01-01,Creativity,3,Needs to think more creatively.
+F879,E879,2098-02-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F880,E880,2098-03-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F881,E881,2098-04-01,Leadership,3,Needs improvement in delegation.
+F882,E882,2098-05-01,Communication,4,Good progress in public speaking.
+F883,E883,2098-06-01,Technical Skills,5,Excellent coding skills.
+F884,E884,2098-07-01,Teamwork,4,Shows great collaboration with peers.
+F885,E885,2098-08-01,Problem Solving,3,Struggles with complex problem-solving.
+F886,E886,2098-09-01,Time Management,5,Manages time effectively, meets deadlines.
+F887,E887,2098-10-01,Adaptability,4,Adapts well to new situations and challenges.
+F888,E888,2098-11-01,Creativity,3,Needs to think more creatively.
+F889,E889,2098-12-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F890,E890,2099-01-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F891,E891,2099-02-01,Leadership,3,Needs improvement in delegation.
+F892,E892,2099-03-01,Communication,4,Good progress in public speaking.
+F893,E893,2099-04-01,Technical Skills,5,Excellent coding skills.
+F894,E894,2099-05-01,Teamwork,4,Shows great collaboration with peers.
+F895,E895,2099-06-01,Problem Solving,3,Struggles with complex problem-solving.
+F896,E896,2099-07-01,Time Management,5,Manages time effectively, meets deadlines.
+F897,E897,2099-08-01,Adaptability,4,Adapts well to new situations and challenges.
+F898,E898,2099-09-01,Creativity,3,Needs to think more creatively.
+F899,E899,2099-10-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F900,E900,2099-11-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F901,E901,2099-12-01,Leadership,3,Needs improvement in delegation.
+F902,E902,2100-01-01,Communication,4,Good progress in public speaking.
+F903,E903,2100-02-01,Technical Skills,5,Excellent coding skills.
+F904,E904,2100-03-01,Teamwork,4,Shows great collaboration with peers.
+F905,E905,2100-04-01,Problem Solving,3,Struggles with complex problem-solving.
+F906,E906,2100-05-01,Time Management,5,Manages time effectively, meets deadlines.
+F907,E907,2100-06-01,Adaptability,4,Adapts well to new situations and challenges.
+F908,E908,2100-07-01,Creativity,3,Needs to think more creatively.
+F909,E909,2100-08-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F910,E910,2100-09-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F911,E911,2100-10-01,Leadership,3,Needs improvement in delegation.
+F912,E912,2100-11-01,Communication,4,Good progress in public speaking.
+F913,E913,2100-12-01,Technical Skills,5,Excellent coding skills.
+F914,E914,2101-01-01,Teamwork,4,Shows great collaboration with peers.
+F915,E915,2101-02-01,Problem Solving,3,Struggles with complex problem-solving.
+F916,E916,2101-03-01,Time Management,5,Manages time effectively, meets deadlines.
+F917,E917,2101-04-01,Adaptability,4,Adapts well to new situations and challenges.
+F918,E918,2101-05-01,Creativity,3,Needs to think more creatively.
+F919,E919,2101-06-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F920,E920,2101-07-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F921,E921,2101-08-01,Leadership,3,Needs improvement in delegation.
+F922,E922,2101-09-01,Communication,4,Good progress in public speaking.
+F923,E923,2101-10-01,Technical Skills,5,Excellent coding skills.
+F924,E924,2101-11-01,Teamwork,4,Shows great collaboration with peers.
+F925,E925,2101-12-01,Problem Solving,3,Struggles with complex problem-solving.
+F926,E926,2102-01-01,Time Management,5,Manages time effectively, meets deadlines.
+F927,E927,2102-02-01,Adaptability,4,Adapts well to new situations and challenges.
+F928,E928,2102-03-01,Creativity,3,Needs to think more creatively.
+F929,E929,2102-04-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F930,E930,2102-05-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F931,E931,2102-06-01,Leadership,3,Needs improvement in delegation.
+F932,E932,2102-07-01,Communication,4,Good progress in public speaking.
+F933,E933,2102-08-01,Technical Skills,5,Excellent coding skills.
+F934,E934,2102-09-01,Teamwork,4,Shows great collaboration with peers.
+F935,E935,2102-10-01,Problem Solving,3,Struggles with complex problem-solving.
+F936,E936,2102-11-01,Time Management,5,Manages time effectively, meets deadlines.
+F937,E937,2102-12-01,Adaptability,4,Adapts well to new situations and challenges.
+F938,E938,2103-01-01,Creativity,3,Needs to think more creatively.
+F939,E939,2103-02-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F940,E940,2103-03-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F941,E941,2103-04-01,Leadership,3,Needs improvement in delegation.
+F942,E942,2103-05-01,Communication,4,Good progress in public speaking.
+F943,E943,2103-06-01,Technical Skills,5,Excellent coding skills.
+F944,E944,2103-07-01,Teamwork,4,Shows great collaboration with peers.
+F945,E945,2103-08-01,Problem Solving,3,Struggles with complex problem-solving.
+F946,E946,2103-09-01,Time Management,5,Manages time effectively, meets deadlines.
+F947,E947,2103-10-01,Adaptability,4,Adapts well to new situations and challenges.
+F948,E948,2103-11-01,Creativity,3,Needs to think more creatively.
+F949,E949,2103-12-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F950,E950,2104-01-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F951,E951,2104-02-01,Leadership,3,Needs improvement in delegation.
+F952,E952,2104-03-01,Communication,4,Good progress in public speaking.
+F953,E953,2104-04-01,Technical Skills,5,Excellent coding skills.
+F954,E954,2104-05-01,Teamwork,4,Shows great collaboration with peers.
+F955,E955,2104-06-01,Problem Solving,3,Struggles with complex problem-solving.
+F956,E956,2104-07-01,Time Management,5,Manages time effectively, meets deadlines.
+F957,E957,2104-08-01,Adaptability,4,Adapts well to new situations and challenges.
+F958,E958,2104-09-01,Creativity,3,Needs to think more creatively.
+F959,E959,2104-10-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F960,E960,2104-11-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F961,E961,2104-12-01,Leadership,3,Needs improvement in delegation.
+F962,E962,2105-01-01,Communication,4,Good progress in public speaking.
+F963,E963,2105-02-01,Technical Skills,5,Excellent coding skills.
+F964,E964,2105-03-01,Teamwork,4,Shows great collaboration with peers.
+F965,E965,2105-04-01,Problem Solving,3,Struggles with complex problem-solving.
+F966,E966,2105-05-01,Time Management,5,Manages time effectively, meets deadlines.
+F967,E967,2105-06-01,Adaptability,4,Adapts well to new situations and challenges.
+F968,E968,2105-07-01,Creativity,3,Needs to think more creatively.
+F969,E969,2105-08-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F970,E970,2105-09-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F971,E971,2105-10-01,Leadership,3,Needs improvement in delegation.
+F972,E972,2105-11-01,Communication,4,Good progress in public speaking.
+F973,E973,2105-12-01,Technical Skills,5,Excellent coding skills.
+F974,E974,2106-01-01,Teamwork,4,Shows great collaboration with peers.
+F975,E975,2106-02-01,Problem Solving,3,Struggles with complex problem-solving.
+F976,E976,2106-03-01,Time Management,5,Manages time effectively, meets deadlines.
+F977,E977,2106-04-01,Adaptability,4,Adapts well to new situations and challenges.
+F978,E978,2106-05-01,Creativity,3,Needs to think more creatively.
+F979,E979,2106-06-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F980,E980,2106-07-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F981,E981,2106-08-01,Leadership,3,Needs improvement in delegation.
+F982,E982,2106-09-01,Communication,4,Good progress in public speaking.
+F983,E983,2106-10-01,Technical Skills,5,Excellent coding skills.
+F984,E984,2106-11-01,Teamwork,4,Shows great collaboration with peers.
+F985,E985,2106-12-01,Problem Solving,3,Struggles with complex problem-solving.
+F986,E986,2107-01-01,Time Management,5,Manages time effectively, meets deadlines.
+F987,E987,2107-02-01,Adaptability,4,Adapts well to new situations and challenges.
+F988,E988,2107-03-01,Creativity,3,Needs to think more creatively.
+F989,E989,2107-04-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F990,E990,2107-05-01,Interpersonal Skills,4,Builds good relationships with colleagues.
+F991,E991,2107-06-01,Leadership,3,Needs improvement in delegation.
+F992,E992,2107-07-01,Communication,4,Good progress in public speaking.
+F993,E993,2107-08-01,Technical Skills,5,Excellent coding skills.
+F994,E994,2107-09-01,Teamwork,4,Shows great collaboration with peers.
+F995,E995,2107-10-01,Problem Solving,3,Struggles with complex problem-solving.
+F996,E996,2107-11-01,Time Management,5,Manages time effectively, meets deadlines.
+F997,E997,2107-12-01,Adaptability,4,Adapts well to new situations and challenges.
+F998,E998,2108-01-01,Creativity,3,Needs to think more creatively.
+F999,E999,2108-02-01,Work Ethic,5,Displays a strong work ethic and dedication.
+F1000,E1000,2108-03-01,Interpersonal Skills,4,Builds good relationships with colleagues.
